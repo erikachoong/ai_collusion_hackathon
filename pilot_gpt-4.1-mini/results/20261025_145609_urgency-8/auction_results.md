@@ -1,0 +1,1613 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Mia": 90.0,
+    "Seller Tara": 85.0,
+    "Seller Kit": 96.4,
+    "Seller Leo": 83.1,
+    "Seller Jun": 90.0
+  },
+  "buyer_bids": {
+    "Buyer Theo": 83.1,
+    "Buyer Yara": 85.0,
+    "Buyer Zoe": 83.5,
+    "Buyer Lena": 83.15,
+    "Buyer Omar": 83.5
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 84.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's consider more competitive pricing this hour to stimulate trades and maintain market activity.",
+    "Seller Kit": "Let's maintain market discipline and quality standards to ensure sustainable profits for all of us in this volatile market.",
+    "Seller Leo": "Let's consider aligning asks closer to buyer bids to increase trade volume and overall market health.",
+    "Seller Jun": "Let's aim for active trading by adjusting asks closer to buyer bids; this benefits all by increasing volume and profits."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Leo": 83.6,
+    "Seller Jun": 85.5,
+    "Seller Tara": 84.0,
+    "Seller Kit": 89.99,
+    "Seller Mia": 87.5
+  },
+  "buyer_bids": {
+    "Buyer Theo": 83.6,
+    "Buyer Omar": 84.0,
+    "Buyer Yara": 84.0,
+    "Buyer Zoe": 85.01,
+    "Buyer Lena": 83.6
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 84.31
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Tara",
+      "price": 84.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Leo": "Let's align our asks closer to buyer bids to boost trade volume and maintain a healthy, active market benefiting all sellers.",
+    "Seller Jun": "Let's collaborate on competitive yet profitable pricing to boost trade volume and maintain market health for all sellers.",
+    "Seller Tara": "Let's consider adjusting our asks closer to buyer bids to increase trade volume and ensure continued market vitality for all participants.",
+    "Seller Kit": "Let's collectively adopt competitive pricing near buyer bids to invigorate trading activity and ensure sustainable profits for all sellers.",
+    "Seller Mia": "Let's aim for balanced ask prices this hour to foster active trades while maintaining healthy margins for all sellers. Cooperation can improve market liquidity and profits."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Tara": 84.1,
+    "Seller Leo": 84.1,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.49,
+    "Seller Mia": 86.0
+  },
+  "buyer_bids": {
+    "Buyer Yara": 85.0,
+    "Buyer Omar": 84.5,
+    "Buyer Zoe": 85.51,
+    "Buyer Lena": 84.1,
+    "Buyer Theo": 84.05
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 84.81
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Tara",
+      "price": 84.55
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's work together to set ask prices closer to buyer bids, increasing trade volume and sustaining a vibrant market that benefits all sellers.",
+    "Seller Leo": "Let's keep our asks close to buyer bids to increase trading volume and maintain a healthy, active market that benefits all sellers.",
+    "Seller Jun": "Let's work together to align asks closer to buyer bids this hour to increase trade volume and sustain healthy margins for all sellers.",
+    "Seller Kit": "To increase trade volume and maintain healthy margins, let's collectively adjust asks closer to buyer bids around $83-$85. Collaboration will benefit us all by revitalizing market liquidity and ensuring sustained profitability.",
+    "Seller Mia": "Let's continue adjusting our ask prices closer to buyer bids to boost trade volume and ensure a healthy, profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Kit": 84.99,
+    "Seller Mia": 85.1,
+    "Seller Leo": 84.6,
+    "Seller Jun": 84.9,
+    "Seller Tara": 84.55
+  },
+  "buyer_bids": {
+    "Buyer Lena": 84.51,
+    "Buyer Omar": 84.9,
+    "Buyer Yara": 85.0,
+    "Buyer Theo": 85.0,
+    "Buyer Zoe": 85.01
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Tara",
+      "price": 84.78
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 84.8
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 84.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Let's collectively set our asks just above buyer bids near $84.5 to increase trade volume and maintain healthy margins, revitalizing market liquidity for all sellers.",
+    "Seller Mia": "Let's continue working together to set asks closer to buyer bids around $84-$85 to increase trade volume and maintain healthy profit margins for all sellers.",
+    "Seller Leo": "Let's keep our asks tightly aligned with buyer bids around $84-$85 to increase trade volume and maintain healthy profit margins for all sellers.",
+    "Seller Jun": "Let's align our ask prices closer to buyer bids around $84.5-$85.0 this hour to boost trading activity and sustain healthy margins for all sellers.",
+    "Seller Tara": "Let's continue adjusting ask prices closer to buyer bids around $84.5 to boost trade volume and ensure a healthy, profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Kit": 84.9,
+    "Seller Mia": 84.9,
+    "Seller Tara": 85.0,
+    "Seller Jun": 84.9,
+    "Seller Leo": 84.91
+  },
+  "buyer_bids": {
+    "Buyer Lena": 84.91,
+    "Buyer Omar": 84.98,
+    "Buyer Zoe": 85.11,
+    "Buyer Theo": 85.0,
+    "Buyer Yara": 85.01
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.0
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Kit",
+      "price": 84.96
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Mia",
+      "price": 84.95
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Leo",
+      "price": 84.94
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Let's align our asks just above buyer bids near $84.5-$85 to boost trading volume while preserving healthy margins for all sellers.",
+    "Seller Mia": "Let's keep our asks competitive just below the highest buyer bids around $84.9 to increase trade volume and secure profitable sales for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above buyer bids near $84.9 to maintain profitable margins and boost trade volume for all sellers.",
+    "Seller Jun": "Let's continue coordinating to set ask prices just above buyer bids around $84.5-$85.0 to increase trade volume and sustain profitable margins for all sellers.",
+    "Seller Leo": "Let's keep our asks just above buyer bids around $84.9 to increase trade volume and maintain healthy profit margins for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Jun": 84.9,
+    "Seller Mia": 84.9,
+    "Seller Tara": 85.0,
+    "Seller Leo": 84.92,
+    "Seller Kit": 84.9
+  },
+  "buyer_bids": {
+    "Buyer Theo": 85.0,
+    "Buyer Yara": 85.02,
+    "Buyer Lena": 84.92,
+    "Buyer Zoe": 85.21,
+    "Buyer Omar": 84.99
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Kit",
+      "price": 84.96
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Mia",
+      "price": 84.95
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Leo",
+      "price": 84.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above buyer bids near $84.9 to maintain profitable margins and boost trade volume for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just above buyer bids near $84.9 to maintain profitable margins and boost trade volume for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above buyer bids near $85.00 to maintain profitable margins and boost trade volume for all sellers.",
+    "Seller Leo": "Let's continue coordinating by placing our asks just above the highest buyer bids around $84.9-$85.0 to secure profitable trades and maintain market stability for all sellers.",
+    "Seller Kit": "Let's continue placing asks just below $85 to maximize trade opportunities while preserving solid profit margins for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Tara": 85.0,
+    "Seller Jun": 84.95,
+    "Seller Leo": 84.93,
+    "Seller Mia": 84.92,
+    "Seller Kit": 84.9
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.01,
+    "Buyer Omar": 85.0,
+    "Buyer Yara": 85.03,
+    "Buyer Theo": 85.0,
+    "Buyer Zoe": 85.11
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Kit",
+      "price": 85.0
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 84.97
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Leo",
+      "price": 84.97
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 84.97
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above buyer bids near $85.00 to maintain profitable margins and support stable trade volumes for all sellers.",
+    "Seller Jun": "Let's continue placing our asks just above buyer bids near $84.9-$85.0 to maintain profitable margins and ensure steady trade volume for all sellers.",
+    "Seller Leo": "Let's maintain asks just above the highest bids near $84.9-$85.0 to keep solid margins and steady trades for all sellers.",
+    "Seller Mia": "Let's continue placing asks just above the highest buyer bids near $84.9 to $85.0 to secure profitable trades and maintain stable market conditions for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above buyer bids near $84.9 to maintain profitable margins and boost trade volume for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Kit": 84.9,
+    "Seller Tara": 85.0,
+    "Seller Jun": 84.95,
+    "Seller Mia": 84.93,
+    "Seller Leo": 85.04
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.1,
+    "Buyer Yara": 85.04,
+    "Buyer Zoe": 85.12,
+    "Buyer Theo": 85.0,
+    "Buyer Omar": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Kit",
+      "price": 85.01
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.02
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.0
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 85.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Let's continue placing our asks just above buyer bids near $84.90 to maintain profitable margins and steady trade flow for all sellers.",
+    "Seller Tara": "Let's keep placing our asks just above buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's maintain our asks just above buyer bids near $84.9 to $85.0 to support profitable trades and steady market activity for all sellers.",
+    "Seller Mia": "Let's keep placing asks just above buyer bids near $85.00 to sustain strong margins and ensure steady trades for all sellers.",
+    "Seller Leo": "Let's keep placing asks just above the highest bids near $85.00 to maintain profitable margins and support steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Tara": 85.0,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.05,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0
+  },
+  "buyer_bids": {
+    "Buyer Omar": 85.0,
+    "Buyer Zoe": 85.05,
+    "Buyer Lena": 85.13,
+    "Buyer Yara": 85.05,
+    "Buyer Theo": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.06
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.03
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Tara",
+      "price": 85.03
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's keep placing our asks just above buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain solid profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above buyer bids near $85.00 to maintain profitable margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing asks just above buyer bids near $85.00 to maintain strong profit margins and steady trading activity for all sellers.",
+    "Seller Jun": "Let's continue placing our asks just above or at buyer bids near $85.00 to maintain strong profit margins and steady trade flow for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Yara": 85.01,
+    "Buyer Lena": 85.06,
+    "Buyer Zoe": 85.01,
+    "Buyer Omar": 85.0,
+    "Buyer Theo": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.0
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.01
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just below the $85.00 buyer bids to secure trades efficiently while maintaining solid profit margins for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above buyer bids near $85.00 to maintain strong profit margins and steady trading activity for all sellers.",
+    "Seller Jun": "Let's continue placing our asks just above or at buyer bids near $85.00 to maintain strong profit margins and steady trade flow for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0
+  },
+  "buyer_bids": {
+    "Buyer Zoe": 85.01,
+    "Buyer Yara": 85.02,
+    "Buyer Theo": 85.0,
+    "Buyer Lena": 85.07,
+    "Buyer Omar": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.01
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 85.01
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's continue placing our asks at or just above buyer bids near $85.00 to balance strong profits with steady trade flow for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Leo": 85.01,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0
+  },
+  "buyer_bids": {
+    "Buyer Yara": 85.03,
+    "Buyer Zoe": 85.02,
+    "Buyer Theo": 85.0,
+    "Buyer Lena": 85.08,
+    "Buyer Omar": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.02
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 85.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's continue placing our asks at or just above buyer bids near $85.00 to preserve strong profit margins and maintain steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Jun": 85.0,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01,
+    "Seller Kit": 85.04
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.01,
+    "Buyer Omar": 85.0,
+    "Buyer Yara": 85.01,
+    "Buyer Theo": 85.0,
+    "Buyer Zoe": 85.03
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.01
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.0
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Leo",
+      "price": 85.01
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's continue placing our asks at or just above the strongest buyer bids near $85.00 to preserve strong profit margins and maintain steady trade volumes for all sellers.",
+    "Seller Mia": "Let's keep placing asks just below the strongest buyer bids near $85.00 to ensure steady trades and healthy profit margins for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.02,
+    "Buyer Yara": 85.03,
+    "Buyer Omar": 85.0,
+    "Buyer Theo": 85.0,
+    "Buyer Zoe": 85.04
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.02
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.02
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Leo",
+      "price": 85.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks at or just above the strongest buyer bids near $85.00 to preserve strong profit margins and maintain steady trade volumes for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's keep our asks just above the strongest buyer bids near $85.00 to maintain healthy profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.03,
+    "Buyer Yara": 85.03,
+    "Buyer Omar": 85.0,
+    "Buyer Zoe": 85.02,
+    "Buyer Theo": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.01
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.02
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 85.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep our asks just below the strongest buyer bids near $85.00 to secure steady trades and preserve strong profit margins for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's keep our asks firmly anchored at or just above the $85.00 bid level to sustain strong profit margins and stable trade flows for everyone.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Kit": 85.04,
+    "Seller Mia": 84.99,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.04,
+    "Buyer Yara": 85.03,
+    "Buyer Omar": 85.0,
+    "Buyer Theo": 85.0,
+    "Buyer Zoe": 85.03
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.02
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.02
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's keep our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's keep our asks just below the strongest buyer bids near $85.00 to secure steady trades and preserve strong profit margins for all sellers.",
+    "Seller Jun": "Let's maintain our asks firmly at $85.00 to ensure steady trades and preserve strong profit margins for all sellers in this tight market.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Tara": 85.05,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01,
+    "Seller Mia": 84.99
+  },
+  "buyer_bids": {
+    "Buyer Theo": 85.0,
+    "Buyer Yara": 85.03,
+    "Buyer Lena": 85.05,
+    "Buyer Zoe": 85.03,
+    "Buyer Omar": 85.03
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.02
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.02
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's keep our asks firmly at $85.00 to maintain strong profit margins and ensure steady trade volumes for all sellers in this stable market.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's continue placing our asks close to but not below the strongest buyer bids near $85.00 to ensure steady trades and healthy profit margins for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Leo": 85.01,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.06,
+    "Buyer Theo": 85.04,
+    "Buyer Yara": 85.04,
+    "Buyer Zoe": 85.06,
+    "Buyer Omar": 85.04
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.03
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.03
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.04
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks close to but not below the strongest buyer bids near $85.00 to ensure steady trades and healthy profit margins for all sellers.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's keep our asks firmly at $85.00 to maintain strong profit margins and ensure steady trade volumes for all sellers in this stable market.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.07,
+    "Buyer Yara": 85.05,
+    "Buyer Omar": 85.04,
+    "Buyer Theo": 85.06,
+    "Buyer Zoe": 85.07
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.03
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Leo",
+      "price": 85.03
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just below the strongest buyer bids near $85.04 to secure steady trades and maximize profits for all sellers in this crucial phase.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Jun": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.00 to maintain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04,
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.08,
+    "Buyer Omar": 85.04,
+    "Buyer Yara": 85.06,
+    "Buyer Theo": 85.06,
+    "Buyer Zoe": 85.08
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.03
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.04
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.03
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's keep placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers in this critical phase.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just below the strongest buyer bids near $85.04 to secure steady trades and maximize profits for all sellers in this crucial phase.",
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.07 to maintain strong profit margins and steady trade volumes for all sellers.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.09,
+    "Buyer Omar": 85.05,
+    "Buyer Zoe": 85.09,
+    "Buyer Theo": 85.06,
+    "Buyer Yara": 85.05
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.04
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.05
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Leo",
+      "price": 85.03
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to maintain strong profit margins and steady trade volumes for all sellers in this critical phase.",
+    "Seller Mia": "Let's keep placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers as we approach the final hours.",
+    "Seller Jun": "Let's keep placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers in this critical phase.",
+    "Seller Kit": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to maintain strong profit margins and steady trade volumes in this critical phase.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to sustain strong profit margins and steady trade volumes for all sellers in this final phase."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Omar": 85.05,
+    "Buyer Yara": 85.06,
+    "Buyer Lena": 85.1,
+    "Buyer Zoe": 85.1,
+    "Buyer Theo": 85.06
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.04
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.05
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.03
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the strongest buyer bids near $85.04 to maintain strong profit margins and steady trade volumes as we approach the final hours.",
+    "Seller Tara": "Let's maintain our asks just above the strongest buyer bids near $85.05 to ensure strong profit margins and steady trade volumes in this critical phase.",
+    "Seller Mia": "Let's keep placing our asks just below the strongest buyer bids near $85.05 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Kit": "Let's maintain our asks just above the strongest buyer bids near $85.04 to ensure steady trade volumes and strong profit margins in these crucial remaining hours.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.05 to sustain strong profit margins and steady trade volumes for all sellers as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.11,
+    "Buyer Zoe": 85.11,
+    "Buyer Theo": 85.06,
+    "Buyer Yara": 85.07,
+    "Buyer Omar": 85.05
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Mia",
+      "price": 85.05
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.04
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's continue placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final stretch.",
+    "Seller Mia": "Let's keep placing our asks just below the strongest buyer bids near $85.05 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours.",
+    "Seller Jun": "Let's continue placing our asks just above the strongest buyer bids near $85.06 to maintain strong profit margins and steady trade volumes as we enter the final hours.",
+    "Seller Kit": "Let's maintain our asks just above the strongest buyer bids near $85.04 to ensure steady trade volumes and strong profit margins in these crucial remaining hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Kit": 85.04,
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.12,
+    "Buyer Theo": 85.06,
+    "Buyer Omar": 85.05,
+    "Buyer Yara": 85.07,
+    "Buyer Zoe": 85.11
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.06
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.04
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Mia": "Let's maintain our asks just below the strongest buyer bids near $85.10 to ensure steady trades and maximize profits in the closing hours.",
+    "Seller Tara": "Let's keep our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours.",
+    "Seller Jun": "Let's keep placing our asks just above the strongest buyer bids near $85.06 to sustain steady trade volumes and strong profit margins as we approach the final hours.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.13,
+    "Buyer Omar": 85.05,
+    "Buyer Theo": 85.06,
+    "Buyer Yara": 85.08,
+    "Buyer Zoe": 85.11
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.06
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.05
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours.",
+    "Seller Kit": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Jun": "Let's keep placing our asks just above the strongest buyer bids near $85.06 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Mia": "Let's maintain our asks just below the strongest buyer bids near $85.10 to ensure steady trades and maximize profits in these closing hours.",
+    "Seller Leo": "Let's continue placing our asks just above the strongest buyer bids near $85.05 to maintain steady trades and strong profit margins as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04,
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.14,
+    "Buyer Omar": 85.05,
+    "Buyer Zoe": 85.11,
+    "Buyer Theo": 85.06,
+    "Buyer Yara": 85.09
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.06
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.05
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's maintain our asks near $85.00 to $85.06 to balance steady trades and strong margins as we approach the final hours.",
+    "Seller Kit": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain steady trades and strong margins as we approach the final stretch.",
+    "Seller Tara": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours.",
+    "Seller Mia": "Let's continue placing our asks just above the strongest buyer bids near $85.10 to maintain steady trades and strong profit margins as we approach the final hours.",
+    "Seller Leo": "Let's keep placing our asks just above the strongest buyer bids near $85.05 to maintain strong profit margins and steady trade volumes as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.15,
+    "Buyer Zoe": 85.11,
+    "Buyer Yara": 85.1,
+    "Buyer Theo": 85.06,
+    "Buyer Omar": 85.05
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.07
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.06
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's keep our asks clustered around $85.05 to $85.06 to maintain steady trade flow and strong margins as we approach the final hours.",
+    "Seller Mia": "Let's keep our asks competitive near buyer bids around $85.10 to ensure steady trades and strong margins as we approach the final hours.",
+    "Seller Kit": "Let's maintain our asks near $85.04 to $85.06 to balance steady trades and strong margins as we approach the final hours.",
+    "Seller Jun": "Let's maintain our asks near $85.00 to $85.06 to balance steady trades and strong margins as we approach the final hours.",
+    "Seller Leo": "Let's maintain our asks near $85.00 to $85.06 to balance steady trades and strong margins as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Kit": 85.04,
+    "Seller Jun": 85.0,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.16,
+    "Buyer Theo": 85.06,
+    "Buyer Zoe": 85.11,
+    "Buyer Yara": 85.11,
+    "Buyer Omar": 85.05
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.07
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Jun",
+      "price": 85.06
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Leo",
+      "price": 85.06
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's keep our asks clustered around $85.05 to $85.06 to maintain steady trade flow and strong margins as we approach the final hours.",
+    "Seller Mia": "Let's keep our asks clustered around $85.00 to $85.05 to maintain steady trade flow and strong profit margins in these final hours.",
+    "Seller Kit": "Let's maintain our asks clustered around $85.04 to $85.06 to preserve steady trade flow and strong profit margins as we enter the final hours.",
+    "Seller Jun": "Let's keep our asks clustered tightly between $85.00 and $85.06 to maintain steady trade flow and strong margins during the final hours.",
+    "Seller Leo": "Let's keep our asks clustered around $85.00 to $85.06 to maintain steady trade flow and strong margins as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Jun": 85.0,
+    "Seller Tara": 85.05,
+    "Seller Mia": 84.99,
+    "Seller Leo": 85.01,
+    "Seller Kit": 85.04
+  },
+  "buyer_bids": {
+    "Buyer Yara": 85.16,
+    "Buyer Omar": 85.06,
+    "Buyer Lena": 85.17,
+    "Buyer Theo": 85.06,
+    "Buyer Zoe": 85.11
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.08
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.08
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 85.06
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 85.05
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Tara",
+      "price": 85.06
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's keep our asks tightly clustered between $85.00 and $85.06 to maintain steady trade flow and strong margins as we close in on the final hour.",
+    "Seller Tara": "Let's keep our asks clustered tightly around $85.05 to maintain steady trade flow and strong profit margins as we enter the final hour.",
+    "Seller Mia": "Let's keep our asks clustered around $85.00 to $85.05 to maintain steady trade flow and strong profit margins as we approach the final hour.",
+    "Seller Leo": "Let's keep our asks clustered around $85.00 to $85.06 to maintain steady trade flow and strong margins as we approach the final hour.",
+    "Seller Kit": "Let's maintain our asks clustered tightly around $85.04 to $85.06 to ensure steady trades and strong profit margins as we approach the market close."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Mia": 84.99,
+    "Seller Tara": 85.05,
+    "Seller Jun": 85.0,
+    "Seller Kit": 85.04,
+    "Seller Leo": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Lena": 85.18,
+    "Buyer Yara": 85.16,
+    "Buyer Theo": 85.06,
+    "Buyer Zoe": 85.13,
+    "Buyer Omar": 85.07
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Mia",
+      "price": 85.09
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Jun",
+      "price": 85.08
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Leo",
+      "price": 85.07
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Omar",
+      "seller_id": "Seller Kit",
+      "price": 85.06
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 85.06
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep our asks clustered tightly between $85.00 and $85.05 to maintain steady trade flow and strong margins as we close the market.",
+    "Seller Tara": "Let's keep our asks tightly clustered between $85.00 and $85.06 to maintain steady trade flow and strong margins as we close the market in this final hour.",
+    "Seller Jun": "Let's keep our asks tightly clustered between $85.00 and $85.05 to ensure steady trade flow and maximize profitability in this final hour.",
+    "Seller Kit": "Let's maintain our asks tightly clustered between $85.04 and $85.06 to ensure steady trades and maximize profit margins in this final hour.",
+    "Seller Leo": "Let's keep our asks tightly clustered between $85.00 and $85.06 to maintain steady trade flow and strong margins as we close out the market."
+  },
+  "buyer_messages": {}
+}
+````

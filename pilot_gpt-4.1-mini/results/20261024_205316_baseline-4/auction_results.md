@@ -1,0 +1,1512 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Max": 96.5,
+    "Seller Yara": 83.5,
+    "Seller Amir": 96.5,
+    "Seller Jun": 95.0,
+    "Seller Mia": 85.5
+  },
+  "buyer_bids": {
+    "Buyer Raj": 84.0,
+    "Buyer Eli": 83.5,
+    "Buyer Kai": 83.4,
+    "Buyer Wei": 82.6,
+    "Buyer Nia": 83.41
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 83.75
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's aim for a more competitive market this hour to secure profitable trades for all sellers.",
+    "Seller Mia": "Let's work towards more realistic ask prices to facilitate trades and avoid a stagnant market.",
+    "Seller Yara": "Let's aim for more reasonable asks this hour to stimulate trades and avoid the market stalling with wide spreads.",
+    "Seller Max": "Frontier Metals is ready to adjust prices competitively to facilitate trades. Let's foster a dynamic market this hour.",
+    "Seller Amir": "Seller Amir here: ready to negotiate prices closer to market demand to enable more trades. Let's work towards a balanced market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Jun": 94.0,
+    "Seller Mia": 83.75,
+    "Seller Yara": 83.55,
+    "Seller Amir": 85.0,
+    "Seller Max": 86.0
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.51,
+    "Buyer Wei": 83.6,
+    "Buyer Kai": 84.0,
+    "Buyer Eli": 84.0,
+    "Buyer Raj": 85.5
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.53
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 83.88
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue to bring our asks closer to market demand to unlock trades and benefit all sellers with steady profits.",
+    "Seller Mia": "Let's focus on narrowing the spread by placing more competitive asks close to the current bids to stimulate trades and benefit all sellers.",
+    "Seller Yara": "I encourage all sellers to consider setting asks closer to the highest bids to stimulate more trades and create a healthier market with tighter spreads.",
+    "Seller Amir": "Seller Amir suggests we focus on realistic asks near current bids to enable profitable trades and avoid market stagnation. Let's work together for a more dynamic market.",
+    "Seller Max": "Seller Max here: I’ve adjusted my ask closer to buyers’ bids to foster more trades. Let’s work together to tighten spreads and create a more dynamic, profitable market for all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Mia": 84.05,
+    "Seller Yara": 84.05,
+    "Seller Max": 84.5,
+    "Seller Jun": 84.99,
+    "Seller Amir": 84.1
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.1,
+    "Buyer Nia": 84.2,
+    "Buyer Eli": 85.0,
+    "Buyer Kai": 84.5,
+    "Buyer Raj": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Mia",
+      "price": 84.53
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Yara",
+      "price": 84.53
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 84.3
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's focus on narrowing the spread by placing more competitive asks close to the current bids to stimulate trades and benefit all sellers.",
+    "Seller Yara": "To all sellers: Let’s tighten our asks closer to the highest bids to unlock more trades and foster a healthier, more profitable market for everyone.",
+    "Seller Max": "Seller Max suggests we tighten spreads by placing asks closer to highest bids to boost trades and ensure steady profits for all sellers.",
+    "Seller Jun": "Let's work together to tighten spreads by placing asks closer to current bids to unlock trades and ensure steady profits for all sellers.",
+    "Seller Amir": "Seller Amir suggests all sellers consider placing asks closer to current bids to foster trades and create a more dynamic and profitable market for everyone."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Mia": 84.25,
+    "Seller Amir": 84.3,
+    "Seller Yara": 84.25,
+    "Seller Jun": 84.49,
+    "Seller Max": 84.2
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.25,
+    "Buyer Kai": 84.3,
+    "Buyer Nia": 84.49,
+    "Buyer Raj": 84.5,
+    "Buyer Eli": 84.3
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.35
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 84.37
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Yara",
+      "price": 84.28
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Amir",
+      "price": 84.3
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep our asks close to the highest bids to unlock more trades and create steady profits for all sellers in this tightening market.",
+    "Seller Amir": "Seller Amir urges all sellers to place asks closer to highest bids to tighten spreads, stimulate trades, and improve profitability for everyone.",
+    "Seller Yara": "To all sellers: Placing asks closer to the highest bids will unlock more trades and increase profits for everyone. Let's tighten spreads together to build a more dynamic and profitable market.",
+    "Seller Jun": "Let's keep tightening our asks just above the highest bids to unlock more trades and create a healthy market benefiting all sellers.",
+    "Seller Max": "Seller Max urges all sellers to place asks closer to the highest bids to unlock trades quickly and ensure consistent profits for everyone."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Yara": 84.26,
+    "Seller Jun": 84.39,
+    "Seller Max": 84.25,
+    "Seller Amir": 84.35,
+    "Seller Mia": 84.4
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.35,
+    "Buyer Nia": 84.48,
+    "Buyer Kai": 84.35,
+    "Buyer Eli": 84.35,
+    "Buyer Raj": 84.49
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.37
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.37
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.35
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "To all sellers: Let’s place our asks just above the highest bids to tighten spreads and unlock more trades. This will increase profits for everyone by creating a more dynamic market.",
+    "Seller Jun": "Let's continue to tighten asks closer to the highest bids to stimulate trades and build sustained profits for all sellers in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to place asks as close as possible to current highest bids to accelerate trades and achieve consistent profitability for everyone.",
+    "Seller Amir": "Seller Amir urges all sellers to place asks closer to the highest bids to tighten spreads, stimulate trades, and improve profitability for everyone.",
+    "Seller Mia": "Let's place our asks just above the highest bids to tighten spreads, unlock more trades, and maximize profits together in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Amir": 84.4,
+    "Seller Jun": 84.38,
+    "Seller Yara": 84.36,
+    "Seller Mia": 84.38,
+    "Seller Max": 84.35
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.4,
+    "Buyer Eli": 84.35,
+    "Buyer Nia": 84.38,
+    "Buyer Raj": 84.39,
+    "Buyer Kai": 84.37
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Max",
+      "price": 84.38
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.38
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 84.38
+    }
+  ],
+  "seller_messages": {
+    "Seller Amir": "Seller Amir urges all sellers to maintain their asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profitability for everyone in this market.",
+    "Seller Jun": "Let's keep placing our asks just above the highest bids to tighten the spread further, increase trade volume, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "To all sellers: Let’s place our asks just above the highest bids to tighten spreads and unlock more trades. This approach benefits everyone by increasing market activity and profitability.",
+    "Seller Mia": "Let's continue placing asks just above the highest bids to tighten spreads, stimulate trades, and maximize profits together in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to place asks at or just above the highest bids to tighten spreads and increase trade volume, ensuring better profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Mia": 84.37,
+    "Seller Jun": 84.37,
+    "Seller Max": 84.37,
+    "Seller Yara": 84.38,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.39,
+    "Buyer Wei": 84.41,
+    "Buyer Raj": 84.38,
+    "Buyer Eli": 84.35,
+    "Buyer Kai": 84.37
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Jun",
+      "price": 84.39
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Max",
+      "price": 84.38
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Mia",
+      "price": 84.38
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep placing our asks just above the highest bids to maintain tight spreads and stimulate trades, ensuring better profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to tighten spreads, increase trade volume, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to maintain asks at or just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for everyone in this competitive market.",
+    "Seller Yara": "To all sellers: Let’s maintain asks just above the highest bids to tighten spreads, increase trades, and maximize profits for everyone in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to keep the spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Mia": 84.36,
+    "Seller Yara": 84.38,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.37,
+    "Seller Jun": 84.36
+  },
+  "buyer_bids": {
+    "Buyer Kai": 84.38,
+    "Buyer Wei": 84.42,
+    "Buyer Raj": 84.39,
+    "Buyer Nia": 84.4,
+    "Buyer Eli": 84.38
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Jun",
+      "price": 84.39
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 84.38
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.38
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Yara",
+      "price": 84.38
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue to place our asks just above the highest bids to keep spreads tight and encourage steady trades, maximizing profits for all sellers in this competitive market.",
+    "Seller Yara": "To all sellers: Let’s maintain asks just above the highest bids to tighten spreads, increase trades, and maximize profits for everyone in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to keep the spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to maintain asks at or just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for everyone in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Yara": 84.39,
+    "Seller Mia": 84.39,
+    "Seller Max": 84.38,
+    "Seller Amir": 84.41,
+    "Seller Jun": 84.39
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.4,
+    "Buyer Kai": 84.38,
+    "Buyer Eli": 84.41,
+    "Buyer Wei": 84.43,
+    "Buyer Raj": 84.39
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Max",
+      "price": 84.41
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Jun",
+      "price": 84.4
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 84.4
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.39
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's maintain our asks just above the highest bids to keep spreads tight, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue to place our asks just above the highest bids to keep spreads tight and encourage steady trades, maximizing profits for all sellers in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to maintain asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for everyone in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Yara": 84.39,
+    "Seller Jun": 84.4,
+    "Seller Mia": 84.39,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.38
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.44,
+    "Buyer Kai": 84.38,
+    "Buyer Nia": 84.4,
+    "Buyer Eli": 84.41,
+    "Buyer Raj": 84.39
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Max",
+      "price": 84.41
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Mia",
+      "price": 84.4
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.4
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Seller Max urges all sellers to maintain asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for everyone in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Jun": 84.41,
+    "Seller Yara": 84.4,
+    "Seller Amir": 84.41,
+    "Seller Mia": 84.4,
+    "Seller Max": 84.39
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.39,
+    "Buyer Kai": 84.38,
+    "Buyer Wei": 84.45,
+    "Buyer Eli": 84.4,
+    "Buyer Raj": 84.39
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Max",
+      "price": 84.42
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Mia",
+      "price": 84.4
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Yara": 84.4,
+    "Seller Jun": 84.42,
+    "Seller Mia": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.4
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.4,
+    "Buyer Wei": 84.46,
+    "Buyer Eli": 84.4,
+    "Buyer Raj": 84.39,
+    "Buyer Kai": 84.38
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Max",
+      "price": 84.43
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.4
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Jun": 84.47,
+    "Seller Mia": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.43
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.4,
+    "Buyer Wei": 84.47,
+    "Buyer Eli": 84.4,
+    "Buyer Kai": 84.38,
+    "Buyer Raj": 84.4
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.44
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to keep spreads tight, stimulate trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Jun": 84.48,
+    "Seller Mia": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Max": 84.44
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.4,
+    "Buyer Wei": 84.48,
+    "Buyer Raj": 84.4,
+    "Buyer Kai": 84.39
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.44
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Max": 84.45
+  },
+  "buyer_bids": {
+    "Buyer Kai": 84.39,
+    "Buyer Wei": 84.49,
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.4,
+    "Buyer Raj": 84.41
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.45
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Mia",
+      "price": 84.41
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.46
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.5,
+    "Buyer Eli": 84.4,
+    "Buyer Kai": 84.4,
+    "Buyer Nia": 84.41,
+    "Buyer Raj": 84.42
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.45
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Mia",
+      "price": 84.41
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Max": 84.47,
+    "Seller Mia": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Yara": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Eli": 84.4,
+    "Buyer Wei": 84.51,
+    "Buyer Kai": 84.4,
+    "Buyer Raj": 84.43,
+    "Buyer Nia": 84.41
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.46
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.51,
+    "Buyer Raj": 84.44,
+    "Buyer Eli": 84.4,
+    "Buyer Nia": 84.41,
+    "Buyer Kai": 84.4
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.46
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.42
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Max": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.52,
+    "Buyer Eli": 84.42,
+    "Buyer Nia": 84.41,
+    "Buyer Raj": 84.45,
+    "Buyer Kai": 84.4
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.47
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.43
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Mia",
+      "price": 84.41
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.41,
+    "Seller Mia": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.53,
+    "Buyer Raj": 84.46,
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.43,
+    "Buyer Kai": 84.42
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.47
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Max": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.41,
+    "Buyer Wei": 84.54,
+    "Buyer Eli": 84.44,
+    "Buyer Kai": 84.43,
+    "Buyer Raj": 84.47
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.47
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Yara",
+      "price": 84.42
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Jun": 84.49,
+    "Seller Max": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.45,
+    "Buyer Kai": 84.43,
+    "Buyer Wei": 84.55,
+    "Buyer Raj": 84.42
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.48
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.43
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, encourage steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Jun": 84.49,
+    "Seller Yara": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.41,
+    "Buyer Wei": 84.56,
+    "Buyer Eli": 84.46,
+    "Buyer Kai": 84.43,
+    "Buyer Raj": 84.42
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.48
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.57,
+    "Buyer Eli": 84.47,
+    "Buyer Nia": 84.41,
+    "Buyer Kai": 84.44,
+    "Buyer Raj": 84.42
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.49
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.41
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's maintain our asks just above the highest bids to keep the market liquid and ensure steady trades with good margins for all sellers.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Jun": 84.49,
+    "Seller Yara": 84.41,
+    "Seller Max": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Eli": 84.48,
+    "Buyer Raj": 84.43,
+    "Buyer Wei": 84.58,
+    "Buyer Nia": 84.41,
+    "Buyer Kai": 84.44
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.5
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.42
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.42
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's maintain our asks just above the highest bids to ensure steady trades and maximize profits for all sellers in this tight market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Max": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.59,
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.48,
+    "Buyer Raj": 84.44,
+    "Buyer Kai": 84.45
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.5
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.44
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.43
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.42
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Mia": "Let's keep our asks just above the highest bids to sustain tight spreads, ensure steady trades, and maximize profits as we approach the market close.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Yara": 84.41,
+    "Seller Jun": 84.49
+  },
+  "buyer_bids": {
+    "Buyer Eli": 84.49,
+    "Buyer Wei": 84.6,
+    "Buyer Nia": 84.41,
+    "Buyer Raj": 84.45,
+    "Buyer Kai": 84.46
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.5
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.45
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.44
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.43
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep our asks just above the highest bids to sustain tight spreads, ensure steady trades, and maximize profits as we approach the market close.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market.",
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we approach the market close.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.61,
+    "Buyer Raj": 84.46,
+    "Buyer Nia": 84.41,
+    "Buyer Eli": 84.49,
+    "Buyer Kai": 84.47
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.51
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.45
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.44
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.44
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we approach the market close.",
+    "Seller Mia": "Let's keep our asks just above the highest bids to sustain tight spreads, ensure steady trades, and maximize profits as we approach the market close.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we near market close.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we close in on the final hours.",
+    "Seller Amir": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Jun": 84.49,
+    "Seller Amir": 84.41,
+    "Seller Yara": 84.41
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.62,
+    "Buyer Eli": 84.49,
+    "Buyer Nia": 84.41,
+    "Buyer Kai": 84.48,
+    "Buyer Raj": 84.47
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.52
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Max",
+      "price": 84.45
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.44
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Yara",
+      "price": 84.44
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we approach the final hour.",
+    "Seller Max": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we close in on the final hour.",
+    "Seller Jun": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we approach the market close.",
+    "Seller Amir": "Let's keep our asks just above the highest bids this hour to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we approach the market close.",
+    "Seller Yara": "Let's keep placing our asks just above the highest bids to sustain tight spreads and ensure steady trades as we approach the final hour, maximizing profits for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Yara": 84.41,
+    "Seller Amir": 84.41,
+    "Seller Mia": 84.41,
+    "Seller Max": 84.41,
+    "Seller Jun": 84.49
+  },
+  "buyer_bids": {
+    "Buyer Wei": 84.63,
+    "Buyer Kai": 84.49,
+    "Buyer Nia": 84.41,
+    "Buyer Raj": 84.49,
+    "Buyer Eli": 84.49
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Amir",
+      "price": 84.52
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Max",
+      "price": 84.45
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Mia",
+      "price": 84.45
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Yara",
+      "price": 84.45
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we close the market.",
+    "Seller Amir": "Let's keep placing our asks just above the highest bids to maintain tight spreads and ensure steady trades as we close the market, maximizing profits for all sellers.",
+    "Seller Mia": "Let's continue placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits for all sellers as we close the final hour.",
+    "Seller Max": "Let's keep placing our asks just above the highest bids to maintain tight spreads, stimulate steady trades, and maximize profits as we close the market.",
+    "Seller Jun": "Let's keep placing our asks just above the highest bids to sustain tight spreads and ensure profitable trades in this final hour, maximizing returns for all sellers."
+  },
+  "buyer_messages": {}
+}
+````

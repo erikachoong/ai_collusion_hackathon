@@ -1,0 +1,15 @@
+# Local environment and build files
+.venv/
+src.egg-info/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.env
+
+# Agrawal et al.'s original published runs (get them from their repo; my re-scored copies are in results_gpt-4.1/)
+data/
+
+# Per-session console logs
+logs/
+logs_*/

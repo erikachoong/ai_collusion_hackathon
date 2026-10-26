@@ -1,0 +1,1565 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Maya": 84.0,
+    "Seller Raj": 83.6,
+    "Seller Jun": 85.0,
+    "Seller Yara": 83.7,
+    "Seller Wei": 83.6
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.5,
+    "Buyer Theo": 84.0,
+    "Buyer Nia": 84.0,
+    "Buyer Eli": 84.0,
+    "Buyer Leo": 91.0
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 87.3
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Wei",
+      "price": 83.8
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 83.85
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Maya",
+      "price": 84.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics values long-term partnerships with buyers and aims for fair pricing that benefits all participants. We encourage cooperation and reasonable asks to maintain a healthy market.",
+    "Seller Yara": "Let's work together to maintain a healthy market where all sellers can profit fairly while supporting our long-term buyers. Cooperation benefits us all.",
+    "Seller Jun": "Let's work together to foster a stable market where we all benefit through fair pricing and consistent trading volumes. Our shared success depends on cooperation and reasonable asks.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we value our long-term partnerships with buyers and sellers alike. Let's work together to create a fair and active market, benefiting everyone involved."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Yara": 84.5,
+    "Seller Maya": 84.0,
+    "Seller Jun": 84.0,
+    "Seller Wei": 83.6,
+    "Seller Raj": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Theo": 83.6,
+    "Buyer Eli": 83.6,
+    "Buyer Nia": 83.6,
+    "Buyer Leo": 84.95,
+    "Buyer Ana": 84.5
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Wei",
+      "price": 84.28
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Raj",
+      "price": 84.1
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Let's continue fostering a balanced and cooperative market where fair asks drive consistent trades and benefit all sellers and buyers alike.",
+    "Seller Maya": "Meridian Metallics remains committed to fair pricing that supports both seller profitability and buyer partnerships. Let's collaborate to maintain a balanced market where reasonable asks enable consistent trades and mutual success.",
+    "Seller Jun": "We continue to seek a balance between fair pricing and trade execution to support our long-term buyer relationships and overall market health. Cooperation among sellers will help maintain a stable and profitable environment for all.",
+    "Seller Wei": "Let's continue fostering a fair and active market where we all benefit through reasonable asks and strong cooperation, ensuring sustainable profits and long-term buyer relationships.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we believe that working together with fellow sellers supports a stable and profitable market for everyone. Let's keep our asks reasonable to foster consistent trades and long-term partnerships."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Yara": 84.0,
+    "Seller Jun": 83.7,
+    "Seller Raj": 83.75,
+    "Seller Maya": 84.0,
+    "Seller Wei": 83.61
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.01,
+    "Buyer Ana": 83.99,
+    "Buyer Eli": 83.7,
+    "Buyer Theo": 83.7,
+    "Buyer Leo": 83.95
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.81
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Jun",
+      "price": 83.84
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.85
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Northern Element Trading remains committed to a balanced market where fair asks enable steady trades and mutual profitability. Let's continue working together with reasonable pricing to support long-term buyer partnerships and sustainable success for all.",
+    "Seller Jun": "Let's continue working together to set fair asks that encourage steady trades and benefit all sellers and buyers alike, fostering a healthy and profitable market environment.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we believe that fair and balanced asks foster a healthy market benefiting all sellers and buyers. Let's continue working together to maintain competitive pricing that supports profitable trades and long-term partnerships.",
+    "Seller Maya": "Meridian Metallics values a fair market where reasonable asks support steady trades and long-term partnerships. Let's continue working together to maintain a balanced environment that benefits all sellers and buyers alike.",
+    "Seller Wei": "Let's maintain a cooperative market with fair asks that encourage steady trades and benefit all participants, ensuring long-term success for sellers and buyers alike."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Maya": 84.0,
+    "Seller Jun": 83.65,
+    "Seller Yara": 84.0,
+    "Seller Raj": 83.8,
+    "Seller Wei": 83.71
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 84.02,
+    "Buyer Eli": 83.8,
+    "Buyer Leo": 83.95,
+    "Buyer Theo": 83.8
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.84
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Wei",
+      "price": 83.83
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Raj",
+      "price": 83.8
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics values a fair market where reasonable asks support steady trades and long-term partnerships. Let's continue working together to maintain a balanced environment that benefits all sellers and buyers alike.",
+    "Seller Jun": "Let's continue maintaining fair asks that encourage steady trades and support mutual profitability for all sellers and buyers, fostering a healthy and sustainable market environment.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced market where fair asks enable steady trades and mutual profitability. Let's continue working together with reasonable pricing to support long-term buyer partnerships and sustainable success for all.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced market where fair asks encourage steady trades and mutual profitability. Let's continue fostering a cooperative environment that benefits all participants and supports long-term success.",
+    "Seller Wei": "Let's continue fostering a cooperative market with fair asks that encourage steady trades and benefit all sellers and buyers, supporting long-term success for everyone involved."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Wei": 83.81,
+    "Seller Yara": 84.0,
+    "Seller Raj": 83.8,
+    "Seller Jun": 83.64,
+    "Seller Maya": 84.0
+  },
+  "buyer_bids": {
+    "Buyer Eli": 83.8,
+    "Buyer Ana": 83.81,
+    "Buyer Nia": 84.03,
+    "Buyer Leo": 83.95,
+    "Buyer Theo": 83.9
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.84
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.88
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Wei",
+      "price": 83.86
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Let's continue fostering a cooperative market with fair asks that encourage steady trades and benefit all sellers and buyers, supporting long-term success for everyone involved.",
+    "Seller Yara": "Northern Element Trading remains committed to fostering a balanced market where fair asks encourage steady trades and mutual profitability. Together, let's maintain reasonable pricing that benefits all sellers and supports our valued buyer partnerships.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced market where fair asks encourage steady trades and mutual profitability. Let's continue fostering a cooperative environment that benefits all participants and supports long-term success.",
+    "Seller Jun": "Imperial Element Supply remains dedicated to a fair and balanced market where reasonable asks foster steady trades and mutual profitability. Let's collaborate to maintain a sustainable environment benefiting all participants.",
+    "Seller Maya": "Meridian Metallics remains committed to a fair and cooperative market where reasonable asks support steady trades and long-term partnerships. Let's continue working together to sustain a balanced environment beneficial to all sellers and buyers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Raj": 83.8,
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.85,
+    "Seller Yara": 84.0,
+    "Seller Wei": 84.01
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.01,
+    "Buyer Leo": 83.95,
+    "Buyer Eli": 83.82,
+    "Buyer Ana": 83.82,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.91
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.9
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced market where fair asks encourage steady trades and mutual profitability. Let's continue fostering a cooperative environment that benefits all participants and supports long-term success.",
+    "Seller Maya": "Meridian Metallics remains committed to fostering a balanced market where reasonable asks promote steady trades and mutual profitability. Let's work together to sustain a fair and cooperative environment beneficial to all sellers and buyers.",
+    "Seller Jun": "Imperial Element Supply remains committed to fostering a balanced market where reasonable asks encourage steady trades and mutual profitability. Together, let's support long-term partnerships that benefit all market participants.",
+    "Seller Yara": "Northern Element Trading remains committed to a fair and balanced market where reasonable asks encourage steady trades and mutual profitability. Together, let's sustain a cooperative environment that benefits all sellers and supports our valued buyers.",
+    "Seller Wei": "Benchmark Metals Corp values a cooperative and balanced market where fair asks enable steady trades and mutual profitability. Let's continue working together to sustain a stable environment that benefits all sellers and supports our long-term buyer relationships."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Yara": 83.99,
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.83,
+    "Seller Wei": 84.01,
+    "Seller Maya": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.01,
+    "Buyer Ana": 83.83,
+    "Buyer Eli": 83.82,
+    "Buyer Leo": 83.95,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.92
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.93
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Northern Element Trading continues to support a fair market where reasonable asks foster steady trades and mutual profitability. Together, let's maintain cooperation that benefits all sellers and our valued buyers.",
+    "Seller Jun": "Imperial Element Supply remains committed to fostering a fair and balanced market where reasonable asks encourage steady trades and mutual profitability. Together, let's support long-term partnerships that benefit all market participants.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we value collaboration and fair pricing to sustain a healthy market. Let's continue working together to promote steady trades and mutual success for sellers and buyers alike.",
+    "Seller Wei": "Benchmark Metals Corp values a cooperative and balanced market where fair asks enable steady trades and mutual profitability. Let's continue working together to sustain a stable environment that benefits all sellers and supports our long-term buyer relationships.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to fostering a balanced market where fair asks encourage steady trades and mutual profitability. Together, let's maintain a cooperative environment that supports all sellers and our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.99,
+    "Seller Wei": 83.99,
+    "Seller Raj": 83.84,
+    "Seller Maya": 83.89
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Leo": 83.95,
+    "Buyer Ana": 83.84,
+    "Buyer Eli": 83.84,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.92
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.92
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains committed to fostering a fair and balanced market where reasonable asks encourage steady trades and mutual profitability. Together, let's support long-term partnerships that benefit all market participants.",
+    "Seller Yara": "Northern Element Trading continues to support a fair market where reasonable asks foster steady trades and mutual profitability. Together, let's maintain cooperation that benefits all sellers and our valued buyers.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a cooperative market where fair and reasonable asks encourage steady trades and mutual profitability. Let's continue working together to support a balanced environment benefiting all sellers and our valued buyers.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain dedicated to a balanced market where fair asks encourage steady trades and mutual profitability. Let’s continue fostering cooperation that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains dedicated to fostering a collaborative market where fair asks promote steady trades and shared success. Let's continue working together to support a balanced environment that benefits all sellers and nurtures our valued buyers for long-term prosperity."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Wei": 83.85,
+    "Seller Yara": 83.95,
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.85,
+    "Seller Maya": 83.98
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.85,
+    "Buyer Nia": 84.0,
+    "Buyer Eli": 83.85,
+    "Buyer Theo": 83.91,
+    "Buyer Leo": 83.95
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.92
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Wei",
+      "price": 83.9
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a cooperative market where fair and reasonable asks encourage steady trades and mutual profitability. Let's continue working together to support a balanced environment benefiting all sellers and our valued buyers.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair and reasonable asks encourage steady trades and mutual profitability. Together, let's continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply remains committed to supporting a stable market where fair asks encourage steady trades and benefit all participants. Together, we foster cooperation that sustains long-term partnerships and shared success.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced market where fair asks encourage steady trades and mutual profitability. Let’s continue fostering cooperation that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced market where fair asks foster sustainable trades and mutual profitability. Together, let's support a cooperative environment that benefits all sellers and nurtures strong partnerships with our valued buyers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.87,
+    "Seller Yara": 83.95,
+    "Seller Maya": 83.94,
+    "Seller Wei": 83.86
+  },
+  "buyer_bids": {
+    "Buyer Leo": 84.0,
+    "Buyer Ana": 83.86,
+    "Buyer Theo": 83.91,
+    "Buyer Eli": 83.86,
+    "Buyer Nia": 84.0
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.93
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.94
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced market where fair asks support steady trades and mutual profitability; together, we build a sustainable marketplace benefiting all sellers and our valued buyers.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we continue to support a balanced market where fair asks foster steady trades and mutual profitability. Let's maintain cooperation to ensure long-term success for all sellers and our valued buyers.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let's continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains dedicated to fostering a cooperative and balanced market where fair asks ensure steady trades and mutual success. Let us continue working together to support all sellers and our valued buyers for sustainable, long-term partnerships.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a cooperative market where fair and reasonable asks encourage steady trades and mutual profitability. Together, let’s support a balanced environment that benefits all sellers and our valued buyers for sustainable success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Raj": 83.88,
+    "Seller Wei": 83.86,
+    "Seller Yara": 83.93,
+    "Seller Jun": 83.9,
+    "Seller Maya": 83.93
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Ana": 83.87,
+    "Buyer Eli": 83.87,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.93
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.94
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we continue to support a balanced market where fair asks foster steady trades and mutual profitability. Let's maintain cooperation to ensure long-term success for all sellers and our valued buyers.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s support a balanced environment that benefits all sellers and our valued buyers for sustainable success.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced market where fair asks support steady trades and mutual profitability; together, we build a sustainable marketplace benefiting all sellers and our valued buyers.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a cooperative and balanced market where fair asks ensure steady trades and mutual success. Let's continue fostering an environment that benefits all sellers and supports our valued buyers for sustainable, long-term partnerships."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.89,
+    "Seller Wei": 83.87,
+    "Seller Maya": 83.92,
+    "Seller Yara": 83.93
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.88,
+    "Buyer Eli": 83.88,
+    "Buyer Theo": 83.91,
+    "Buyer Leo": 84.0,
+    "Buyer Nia": 84.0
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.94
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.94
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains committed to a cooperative and balanced market where fair asks support steady trades and mutual profitability; together, we sustain a marketplace that benefits all sellers and values our long-term buyer partnerships.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we value cooperation and fair pricing that sustains steady trades and mutual profitability. Together, let's continue fostering a balanced market that supports long-term success for all sellers and our valued buyers.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s support a balanced environment that benefits all sellers and our valued buyers for sustainable success.",
+    "Seller Maya": "Meridian Metallics Ltd remains dedicated to fostering a fair and balanced market where competitive but reasonable asks ensure steady trades and mutual success for all sellers and valued buyers. Let's continue working together to support a sustainable and profitable marketplace.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Raj": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.93,
+    "Seller Maya": 83.91,
+    "Seller Wei": 83.88
+  },
+  "buyer_bids": {
+    "Buyer Theo": 83.91,
+    "Buyer Nia": 84.0,
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.89,
+    "Buyer Ana": 83.89
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.94
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Raj",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we continue to prioritize fair pricing that sustains steady trades and mutual profitability. Together, let's uphold a balanced market that benefits all sellers and supports the long-term success of our valued buyers and partners.",
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced and cooperative market where fair and stable asks ensure steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to fostering a fair marketplace where competitive asks support steady trades and mutual success for all sellers and valued buyers. Together, let's sustain a balanced and profitable market.",
+    "Seller Wei": "Benchmark Metals Corp remains dedicated to sustaining a balanced market where competitive asks support steady trades and fair profitability, fostering mutual success for all sellers and our valued buyers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Raj": 83.91,
+    "Seller Wei": 83.89,
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.93
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91,
+    "Buyer Eli": 83.9,
+    "Buyer Ana": 83.9
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.94
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced and fair market where competitive asks foster steady trades and mutual profitability. Let’s continue working together to support sustainable success for all market participants and our valued buyers.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fostering a balanced market where competitive asks support steady trades and fair profitability, promoting mutual success for all sellers and our valued buyers.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to fostering a fair and balanced marketplace where competitive asks support steady trades and mutual profitability for all sellers and valued buyers. Together, let's sustain a cooperative and profitable market that benefits our entire community.",
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced market where fair asks support steady trades and mutual profitability. Together, we foster a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.92,
+    "Seller Yara": 83.9,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Eli": 83.91,
+    "Buyer Ana": 83.9,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a fair and balanced market where competitive asks support steady trades and mutual profitability for all sellers and valued buyers. Together, let's sustain a cooperative and profitable marketplace that benefits our entire community.",
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced market where fair asks support steady trades and mutual profitability. Together, we foster a sustainable marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to sustaining a balanced and cooperative market where fair and competitive asks support consistent trades and mutual profitability. Together, let's foster a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp continues to support a balanced market where competitive asks enable steady trades and mutual profitability, fostering long-term success for all sellers and valued buyers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Yara": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Ana": 83.9,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to sustaining a balanced and cooperative market where fair and competitive asks support consistent trades and mutual profitability. Together, let's foster a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd continues to value a cooperative and balanced market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply continues to support a balanced market where fair asks enable steady trades and mutual profitability. Together, we ensure a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp continues to support a balanced market where competitive asks enable steady trades and mutual profitability, fostering long-term success for all sellers and valued buyers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Maya": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Ana": 83.9,
+    "Buyer Theo": 83.91,
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to sustaining a balanced and cooperative market where fair and competitive asks support consistent trades and mutual profitability. Together, let's foster a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp continues to support a balanced market where competitive asks enable steady trades and mutual profitability, fostering long-term success for all sellers and valued buyers.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced market where fair asks enable steady trades and mutual profitability. Together, we support a sustainable marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Yara": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Maya": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Ana": 83.9,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.91,
+    "Buyer Leo": 84.0
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we stay committed to a balanced market where fair asks sustain steady trades and profitability. Together, let's foster a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to a cooperative market where fair, competitive asks enable steady trades and mutual profitability. Together, let's sustain a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced market where fair asks enable steady trades and mutual profitability. Together, we support a sustainable marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9,
+    "Seller Maya": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Jun": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 84.0,
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.91,
+    "Buyer Ana": 83.9
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "At Horizon Heavy Metal Distributors, we remain committed to a balanced market where fair asks sustain steady trades and profitability. Together, let's foster a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to a cooperative market where fair, competitive asks enable steady trades and mutual profitability. Together, let's sustain a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply remains dedicated to a balanced market where fair asks enable steady trades and mutual profitability. Together, we support a sustainable marketplace benefiting all sellers and our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Wei": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Maya": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Leo": 84.0,
+    "Buyer Nia": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Ana": 83.9,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Maya",
+      "price": 83.95
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, we uphold a sustainable marketplace that benefits all sellers and honors our valued buyers as long-term partners.",
+    "Seller Wei": "Benchmark Metals Corp continues to prioritize fair and competitive asks that support steady trades and mutual profitability. Together, we strengthen the market for the benefit of all sellers and our valued buyer partners.",
+    "Seller Yara": "Northern Element Trading remains committed to a balanced and cooperative market where fair asks encourage steady trades and mutual profitability. Together, let’s continue fostering a marketplace that benefits all sellers and supports our valued buyers for long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Wei": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Yara": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Nia": 83.91,
+    "Buyer Ana": 83.9,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced market where fair asks support steady trades and mutual profitability. Together, we uphold a sustainable marketplace benefiting all sellers and honoring our valued buyers as long-term partners.",
+    "Seller Wei": "Benchmark Metals Corp continues to prioritize fair and competitive asks that support steady trades and mutual profitability. Together, we strengthen the market for the benefit of all sellers and our valued buyer partners.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to maintaining a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, let's uphold a marketplace that benefits all sellers and honors our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Maya": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Ana": 83.9,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91,
+    "Buyer Eli": 83.92
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains dedicated to a balanced market where fair asks ensure steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and honors our valued buyers as long-term partners.",
+    "Seller Yara": "Northern Element Trading remains committed to maintaining a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, let's uphold a marketplace that benefits all sellers and honors our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Wei": "Benchmark Metals Corp continues to prioritize fair and competitive asks that support steady trades and mutual profitability. Together, we strengthen the market for the benefit of all sellers and our valued buyer partners."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Maya": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91,
+    "Buyer Eli": 83.92,
+    "Buyer Ana": 83.9
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to maintaining a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, let's uphold a marketplace that benefits all sellers and honors our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, we uphold a marketplace that benefits all sellers and honors our valued buyers for sustainable long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains dedicated to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains dedicated to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market that benefits all sellers and respects our valued buyers as long-term partners."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Wei": 83.9,
+    "Seller Raj": 83.93
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.91,
+    "Buyer Ana": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a balanced and cooperative market where competitive asks foster steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced and cooperative heavy metals market where fair asks support steady trades and mutual profitability. Together, we uphold a marketplace that benefits all sellers and honors our valued buyers for sustainable long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to maintaining a balanced and cooperative market where fair asks support steady trades and mutual profitability. Together, let's uphold a marketplace that benefits all sellers and honors our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains dedicated to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market that benefits all sellers and respects our valued buyers as long-term partners.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Maya": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Yara": 83.9,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Leo": 84.0,
+    "Buyer Ana": 83.92,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains committed to a balanced, cooperative market where fair asks ensure steady trades and mutual profitability. Together, we support a sustainable marketplace that benefits all sellers and honors our valued buyers as long-term partners.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to sustaining a balanced and cooperative market where fair and competitive asks support steady trades and mutual profitability. Together, we uphold a marketplace that benefits all sellers and honors our valued buyers for sustainable long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Yara": "Northern Element Trading continues to prioritize a fair and cooperative heavy metals market where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains dedicated to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market that benefits all sellers and respects our valued buyers as long-term partners."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Maya": 83.9,
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Wei": 83.9,
+    "Seller Raj": 83.93
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Leo": 84.0,
+    "Buyer Ana": 83.93,
+    "Buyer Theo": 83.91,
+    "Buyer Eli": 83.92
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Maya",
+      "price": 83.92
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.91
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd continues to support a cooperative market where fair and competitive asks ensure steady trades and sustainable profits. Together, we uphold a marketplace that benefits all sellers and honors our valued buyers for long-term success.",
+    "Seller Jun": "Imperial Element Supply continues to prioritize a balanced and cooperative market where fair asks ensure steady trades and mutual profitability. Together, we sustain a marketplace that benefits all sellers and respects our valued buyers as long-term partners.",
+    "Seller Yara": "Northern Element Trading continues to prioritize a fair and cooperative heavy metals market where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains dedicated to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market that benefits all sellers and respects our valued buyers as long-term partners.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Maya": 83.91,
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Ana": 83.93,
+    "Buyer Leo": 84.0,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.91
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.92
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains committed to a cooperative market where fair asks ensure steady trades and mutual profitability. Together, we support a stable marketplace benefiting all sellers and respecting our valued buyers as long-term partners.",
+    "Seller Yara": "Northern Element Trading remains committed to a fair and cooperative heavy metals market where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a cooperative and balanced market where fair asks support steady trades and mutual profitability. Together, we sustain a marketplace that benefits all sellers and respects our valued buyers for long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market benefiting all sellers and respecting our valued buyers as long-term partners."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Jun": 83.9,
+    "Seller Wei": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Yara": 83.9,
+    "Seller Maya": 83.91
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.92,
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.91,
+    "Buyer Ana": 83.93,
+    "Buyer Eli": 83.92
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.92
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Imperial Element Supply remains committed to a cooperative market where fair asks ensure steady trades and mutual profitability. Together, we support a stable marketplace benefiting all sellers and respecting our valued buyers as long-term partners.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to fair and competitive asks that foster steady trades and mutual profitability. Together, we uphold a balanced market benefiting all sellers and respecting our valued buyers as long-term partners.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a fair and cooperative heavy metals market where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a cooperative and balanced market where fair asks support steady trades and mutual profitability. Together, we sustain a marketplace that benefits all sellers and respects our valued buyers for long-term success."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Maya": 83.91,
+    "Seller Yara": 83.9,
+    "Seller Raj": 83.93,
+    "Seller Jun": 83.9,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.93,
+    "Buyer Leo": 84.0,
+    "Buyer Nia": 83.92,
+    "Buyer Eli": 83.92,
+    "Buyer Theo": 83.92
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.92
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.91
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a cooperative and balanced market where fair asks support steady trades and mutual profitability. Together, we sustain a marketplace that benefits all sellers and respects our valued buyers for long-term success.",
+    "Seller Yara": "Northern Element Trading remains committed to a fair and cooperative heavy metals market where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace benefiting all sellers and our valued buyers for long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors remains committed to fostering a cooperative market where fair and competitive asks enable steady trades and mutual profitability. Together, let's support a marketplace that benefits all sellers and our valued buyers for sustainable long-term success.",
+    "Seller Jun": "Imperial Element Supply remains committed to a cooperative market that ensures fair asks and steady trades. Together, we support a stable marketplace benefiting all sellers and our valued buyers as long-term partners, especially as we approach the final trading hour.",
+    "Seller Wei": "Benchmark Metals Corp continues to prioritize fair and competitive asks that foster steady trades and mutual profitability. Together, we support a stable and cooperative market benefiting all sellers and respecting our valued buyers as long-term partners."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Maya": 83.91,
+    "Seller Raj": 83.93,
+    "Seller Wei": 83.9,
+    "Seller Yara": 83.9,
+    "Seller Jun": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Leo": 84.0,
+    "Buyer Theo": 83.93,
+    "Buyer Nia": 83.92,
+    "Buyer Ana": 84.0,
+    "Buyer Eli": 83.92
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 83.95
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.95
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Yara",
+      "price": 83.92
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 83.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Meridian Metallics Ltd remains committed to a fair and cooperative heavy metals market, where balanced asks support steady trades and mutual profitability. Together, we sustain a marketplace that benefits all sellers and our valued buyers for long-term success.",
+    "Seller Raj": "Horizon Heavy Metal Distributors continues to prioritize fair and competitive asks that support steady trades and mutual profitability. Together, let's uphold a stable market benefiting all sellers and our valued buyers as long-term partners.",
+    "Seller Wei": "Benchmark Metals Corp remains committed to a fair and cooperative market that balances competitive asks with steady trades. As we conclude today's trading, let's continue supporting a marketplace that benefits all sellers and our valued buyers for sustainable, long-term success.",
+    "Seller Yara": "Northern Element Trading thanks all partners for a cooperative market journey. We remain committed to fair asks that ensure steady trades and mutual profitability, honoring our buyers and sellers as long-term partners.",
+    "Seller Jun": "Imperial Element Supply remains dedicated to a cooperative market that balances fair asks and steady trades, ensuring mutual profitability and supporting our valued buyers as long-term partners as we close this trading period."
+  },
+  "buyer_messages": {}
+}
+````

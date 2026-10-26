@@ -1,0 +1,1638 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Theo": 83.0,
+    "Seller Lena": 83.0,
+    "Seller Mia": 82.75,
+    "Seller Ana": 86.5,
+    "Seller Kai": 83.0
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.6,
+    "Buyer Amir": 82.5,
+    "Buyer Wei": 82.55,
+    "Buyer Jun": 82.6,
+    "Buyer Jin": 90.0
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Mia",
+      "price": 86.38
+    }
+  ],
+  "seller_messages": {
+    "Seller Theo": "Looking forward to active trading this hour. A reasonable ask price close to highest bids benefits all sellers and ensures market liquidity.",
+    "Seller Mia": "Let's work towards more competitive pricing to ensure active trading and mutual profitability in this market.",
+    "Seller Kai": "Let's aim for realistic pricing this hour to stimulate trades and benefit all sellers; lowering asks closer to bids can ignite market activity.",
+    "Seller Lena": "Let's aim for a fair price range this hour to increase trade volume. Adjusting asks closer to bids benefits all sellers.",
+    "Seller Ana": "Let's keep the market active and fair by adjusting asks closer to buyer bids; maintaining reasonable prices benefits us all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Kai": 82.7,
+    "Seller Mia": 83.1,
+    "Seller Lena": 82.75,
+    "Seller Ana": 83.25,
+    "Seller Theo": 82.8
+  },
+  "buyer_bids": {
+    "Buyer Wei": 82.75,
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.95,
+    "Buyer Jin": 82.95,
+    "Buyer Nia": 82.65
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kai",
+      "price": 82.85
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.85
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.88
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's consider asking prices closer to buyers' highest bids to activate trades and enhance profitability for all sellers.",
+    "Seller Mia": "Let's work together to set competitive asks near the highest bids to activate more trades and increase profitability for all.",
+    "Seller Lena": "Let's aim for competitive ask prices just above current bids to encourage trades and maintain healthy market activity benefiting all sellers.",
+    "Seller Ana": "Let's keep our asks close to buyer bids to stimulate trade volume and maximize profits for everyone in this market.",
+    "Seller Theo": "Let's maintain competitive asks near the highest bids to stimulate trade activity and benefit all sellers with steady profits."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Ana": 83.0,
+    "Seller Mia": 82.9,
+    "Seller Theo": 82.75,
+    "Seller Lena": 82.75,
+    "Seller Kai": 82.8
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.8,
+    "Buyer Amir": 82.8,
+    "Buyer Jun": 83.0,
+    "Buyer Jin": 83.0,
+    "Buyer Wei": 82.9
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Lena",
+      "price": 82.88
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Theo",
+      "price": 82.88
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.85
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Let's keep our asks competitive and near the highest bids to stimulate trade volume and maximize profits for all sellers in this market.",
+    "Seller Mia": "Let's tighten our asks closer to the highest bids to activate trades and boost profits for all sellers in this market.",
+    "Seller Theo": "Let's maintain our asks close to the highest buyer bids to stimulate trade volume and secure steady profits for all sellers.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids to increase trade volume and profitability for all sellers in this market.",
+    "Seller Kai": "Let's coordinate to keep our asks slightly above current bids around $82.7-$82.8 to activate trading and maximize profits for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Lena": 82.75,
+    "Seller Mia": 82.85,
+    "Seller Ana": 82.89,
+    "Seller Kai": 82.85,
+    "Seller Theo": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.85,
+    "Buyer Nia": 82.85,
+    "Buyer Jun": 83.0,
+    "Buyer Wei": 82.95,
+    "Buyer Jin": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Lena",
+      "price": 82.88
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Theo",
+      "price": 82.88
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.9
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.85
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Let's continue placing asks close to the highest bids to increase trade volume and maximize profits for all sellers in this market.",
+    "Seller Mia": "Let's aim for asks near $82.80 to $82.90 to match buyer interest and activate trades, benefiting all sellers with steady profits.",
+    "Seller Ana": "Let's keep our asks tightly clustered near the highest bids to encourage more trades and improve profitability for all sellers.",
+    "Seller Kai": "Let's keep our asks competitive and close to the highest bids around $82.8-$82.9 to activate trades and maximize profits for all sellers.",
+    "Seller Theo": "Let's maintain our asks close to the highest buyer bids to stimulate trade volume and secure steady profits for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Theo": 82.8,
+    "Seller Ana": 82.89
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.9,
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.87,
+    "Buyer Jin": 83.0,
+    "Buyer Wei": 82.91
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Lena",
+      "price": 82.88
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Theo",
+      "price": 82.9
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.88
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.88
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Mia": "Let's keep our asks tightly clustered just above the highest bids near $82.85-$82.90 to encourage more trades and sustain solid profits for all sellers.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids to increase trade volume and maximize profits for all sellers in this market.",
+    "Seller Theo": "Let's continue coordinating to keep our asks competitive near the highest bids to increase trade volume and ensure steady profits for all sellers.",
+    "Seller Ana": "Let's keep our asks tightly clustered near the highest bids to encourage more trades and improve profitability for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.86,
+    "Seller Lena": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.88,
+    "Buyer Jun": 83.0,
+    "Buyer Nia": 82.88,
+    "Buyer Wei": 82.9,
+    "Buyer Jin": 83.05
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kai",
+      "price": 82.92
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 82.88
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Theo",
+      "price": 82.86
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Ana",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Mia": "Let's keep our asks tightly clustered just above the highest bids near $82.85-$82.90 to encourage steady trades and maximize profits for all sellers.",
+    "Seller Theo": "Let's keep our asks tightly clustered near the highest bids to encourage steady trades and maximize profits for all sellers.",
+    "Seller Ana": "Let's continue clustering our asks tightly near the highest bids around 82.85-82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Mia": 82.85,
+    "Seller Ana": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Nia": 82.91,
+    "Buyer Wei": 82.91,
+    "Buyer Amir": 82.89,
+    "Buyer Jin": 83.05
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.88
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.88
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Theo": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Mia": "Let's keep our asks tightly clustered just above the highest bids near $82.85-$82.90 to encourage steady trades and maximize profits for all sellers.",
+    "Seller Ana": "Let's keep our asks tightly clustered around the highest bids near $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Mia": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Wei": 82.92,
+    "Buyer Nia": 82.92,
+    "Buyer Amir": 82.89,
+    "Buyer Jin": 83.05
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.88
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.88
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Theo": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Ana": "Let's keep our asks tightly clustered around the highest bids near $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to $82.90 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Theo": 82.85,
+    "Seller Kai": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Jin": 83.05,
+    "Buyer Amir": 82.89,
+    "Buyer Jun": 83.0,
+    "Buyer Wei": 82.93,
+    "Buyer Nia": 82.93
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.89
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.89
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Theo": "Let's continue keeping our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Kai": "Let's keep our asks tightly clustered near the highest bids around $82.85 to $82.90 to sustain steady trades and maximize profits for all sellers.",
+    "Seller Ana": "Let's maintain our asks tightly clustered near the highest bids around $82.85 to $82.90 to stimulate buyer interest and sustain steady trades for all sellers.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to $82.90 to sustain steady trades and maximize profits for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Lena": 82.75,
+    "Seller Kai": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Mia": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Jin": 83.05,
+    "Buyer Wei": 82.94,
+    "Buyer Nia": 82.94,
+    "Buyer Amir": 82.89
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.89
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.89
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to $82.90 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near the 82.85 to 82.90 range to maintain steady trades and maximize profitability for all sellers.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Lena": 82.75,
+    "Seller Kai": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.95,
+    "Buyer Wei": 82.94,
+    "Buyer Jin": 83.05,
+    "Buyer Amir": 82.89,
+    "Buyer Jun": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.9
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 82.89
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near the 82.85 to 82.90 range to maintain steady trades and maximize profitability for all sellers.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Theo": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jin": 83.05,
+    "Buyer Nia": 82.96,
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.89,
+    "Buyer Wei": 82.95
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 82.9
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near the 82.85 to 82.90 range to maintain steady trades and maximize profitability for all sellers.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Kai": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Mia": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.89,
+    "Buyer Nia": 82.97,
+    "Buyer Jin": 83.05,
+    "Buyer Wei": 82.95
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 82.9
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Theo",
+      "price": 82.87
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to sustain steady trades and maximize profits for all sellers in this market.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Nia": 82.98,
+    "Buyer Wei": 82.95,
+    "Buyer Jin": 83.05,
+    "Buyer Amir": 82.89
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 82.91
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to maintain steady trades and maximize profitability for all sellers.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue placing asks close to the highest bids around $82.75 to maintain steady trades and maximize profits for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Ana": 82.92,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Lena": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Wei": 82.95,
+    "Buyer Amir": 82.89,
+    "Buyer Nia": 82.9,
+    "Buyer Jin": 83.05
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.85 to $82.91 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue clustering our asks near $82.75 to stay competitive with current bids around $82.89 and secure steady trades for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Lena": 82.75,
+    "Seller Kai": 82.91,
+    "Seller Ana": 82.92,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Nia": 82.91,
+    "Buyer Amir": 82.89,
+    "Buyer Wei": 82.95,
+    "Buyer Jin": 83.05
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.9
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Let's align our asks closer to $82.75 to capture steady trades and maximize volume as buyers resist prices above $82.90.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's continue keeping our asks tightly clustered near $82.85 to $82.90 to ensure steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Mia": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Lena": 82.75,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.92
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.89,
+    "Buyer Jin": 83.05,
+    "Buyer Nia": 82.91,
+    "Buyer Wei": 82.95
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.9
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.9
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.90 to continue ensuring steady trades and maximizing profitability for everyone in the market.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's align our asks closer to $82.75 to capture steady trades and maximize volume as buyers continue resisting prices above $82.90.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.75,
+    "Seller Ana": 82.92,
+    "Seller Theo": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.89,
+    "Buyer Wei": 82.97,
+    "Buyer Nia": 82.92,
+    "Buyer Jun": 83.0,
+    "Buyer Jin": 83.1
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.92
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.91
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to continue ensuring steady trades and maximizing profitability for everyone in the market.",
+    "Seller Lena": "Let's align our asks closer to $82.75 this hour to capture steady trades and maximize volume as buyers continue resisting prices above $82.90.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's keep our asks tightly clustered near $82.85 to $82.90 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Ana": 82.92,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Lena": 82.75
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.89,
+    "Buyer Jin": 83.12,
+    "Buyer Nia": 82.92,
+    "Buyer Jun": 83.0,
+    "Buyer Wei": 82.98
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.94
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.91
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to ensure steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's align our asks closer to $82.75 this hour to capture steady trades and maximize volume as buyers continue resisting prices above $82.90."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Theo": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Lena": 82.75,
+    "Seller Ana": 82.92
+  },
+  "buyer_bids": {
+    "Buyer Wei": 82.98,
+    "Buyer Jun": 83.0,
+    "Buyer Nia": 82.92,
+    "Buyer Jin": 83.13,
+    "Buyer Amir": 82.89
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.94
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.91
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's continue to cluster our asks near $82.75 this hour to capture steady trades and reduce market fragmentation for mutual benefit.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Ana": 82.92,
+    "Seller Theo": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.8
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Jin": 83.14,
+    "Buyer Amir": 82.89,
+    "Buyer Nia": 82.92,
+    "Buyer Wei": 82.99
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 82.97
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 82.92
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 82.92
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to ensure steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's cluster our asks near $82.80 this hour to reduce fragmentation and sustain steady trades at better margins for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Ana": 82.92,
+    "Seller Kai": 82.91,
+    "Seller Theo": 82.85,
+    "Seller Mia": 82.85,
+    "Seller Lena": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.92,
+    "Buyer Amir": 82.89,
+    "Buyer Wei": 83.01,
+    "Buyer Jin": 83.15,
+    "Buyer Jun": 83.0
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 83.0
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 82.93
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 82.92
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to continue supporting steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's cluster our asks near $82.85 this hour to reduce fragmentation and sustain steady trades at better margins for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Ana": 82.92,
+    "Seller Lena": 83.05
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.0,
+    "Buyer Amir": 82.89,
+    "Buyer Nia": 82.92,
+    "Buyer Wei": 83.16,
+    "Buyer Jin": 83.15
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Mia",
+      "price": 83.0
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Theo",
+      "price": 83.0
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kai",
+      "price": 82.95
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to ensure steady trades and maximize profitability for all sellers in this market.",
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.00 this hour to sustain steady trades and improve profitability for all sellers as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Lena": 83.05,
+    "Seller Ana": 82.92
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.92,
+    "Buyer Jun": 83.05,
+    "Buyer Jin": 83.15,
+    "Buyer Wei": 82.91,
+    "Buyer Amir": 82.89
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Mia",
+      "price": 83.0
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 82.95
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Kai": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to ensure steady trades and maximize profitability for all sellers in this market.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Ana": "Let's maintain our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers in these crucial final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Mia": 82.85,
+    "Seller Lena": 83.05,
+    "Seller Ana": 82.92,
+    "Seller Theo": 82.85
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.9,
+    "Buyer Nia": 82.92,
+    "Buyer Jin": 83.15,
+    "Buyer Wei": 82.92,
+    "Buyer Jun": 83.1
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Mia",
+      "price": 83.0
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 82.97
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Mia": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in these crucial final hours.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Ana": "Let's maintain our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Kai": 82.91,
+    "Seller Ana": 82.92,
+    "Seller Mia": 82.85,
+    "Seller Theo": 82.85,
+    "Seller Lena": 83.05
+  },
+  "buyer_bids": {
+    "Buyer Wei": 82.92,
+    "Buyer Amir": 82.9,
+    "Buyer Jin": 83.15,
+    "Buyer Jun": 83.15,
+    "Buyer Nia": 82.92
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Mia",
+      "price": 83.0
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Theo",
+      "price": 83.0
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "Let's continue to keep our asks clustered tightly near $82.90 to $82.92 to sustain steady trades and maximize profitability as we enter the final critical hours.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Mia": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers in these crucial final hours.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Lena": "Let's maintain our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability for all sellers as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Theo": 82.85,
+    "Seller Mia": 82.9,
+    "Seller Kai": 82.91,
+    "Seller Ana": 82.92,
+    "Seller Lena": 83.05
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.15,
+    "Buyer Nia": 82.92,
+    "Buyer Amir": 82.9,
+    "Buyer Jin": 83.15,
+    "Buyer Wei": 82.92
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 83.0
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Mia",
+      "price": 83.03
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kai",
+      "price": 82.91
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 82.92
+    }
+  ],
+  "seller_messages": {
+    "Seller Theo": "Let's maintain our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability for all sellers as we enter the final critical hours.",
+    "Seller Mia": "Let's keep our asks clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability for all sellers as we enter the final critical hours.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability as we enter the final critical hours.",
+    "Seller Ana": "Let's continue to keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability for all sellers as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Ana": 82.92,
+    "Seller Theo": 82.85,
+    "Seller Kai": 82.91,
+    "Seller Mia": 82.95,
+    "Seller Lena": 83.05
+  },
+  "buyer_bids": {
+    "Buyer Amir": 82.9,
+    "Buyer Jun": 83.15,
+    "Buyer Jin": 83.15,
+    "Buyer Nia": 82.92,
+    "Buyer Wei": 82.93
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 83.0
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Kai",
+      "price": 83.03
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Ana",
+      "price": 82.93
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability as we enter the final hours.",
+    "Seller Theo": "Let's continue to keep our asks tightly clustered near $82.85 to $82.92 to ensure steady trades and maximize profitability as we enter the final hours.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability for all sellers as we approach the final hours.",
+    "Seller Mia": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability as we enter the final hours.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to maintain steady trades and maximize profitability as we approach the final critical hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Theo": 82.85,
+    "Seller Mia": 82.95,
+    "Seller Lena": 83.05,
+    "Seller Kai": 82.91,
+    "Seller Ana": 82.92
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.15,
+    "Buyer Wei": 82.93,
+    "Buyer Jin": 83.15,
+    "Buyer Amir": 82.93,
+    "Buyer Nia": 82.92
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 83.0
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Kai",
+      "price": 83.03
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Ana",
+      "price": 82.93
+    }
+  ],
+  "seller_messages": {
+    "Seller Theo": "Let's keep our asks tightly clustered near $82.85 to $82.92 to sustain steady trades and maximize profitability as we approach the final critical hour.",
+    "Seller Mia": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability as we enter the final hour.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to maintain steady trades and maximize profitability as we approach the final critical hour.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.90 to $82.92 to maintain steady trades and maximize profitability as we enter the final hour.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability as we enter the final critical hour."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Mia": 82.95,
+    "Seller Kai": 82.91,
+    "Seller Lena": 83.05,
+    "Seller Theo": 83.0,
+    "Seller Ana": 82.92
+  },
+  "buyer_bids": {
+    "Buyer Jun": 83.15,
+    "Buyer Amir": 82.95,
+    "Buyer Nia": 82.94,
+    "Buyer Jin": 83.15,
+    "Buyer Wei": 82.94
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kai",
+      "price": 83.03
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Ana",
+      "price": 83.03
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Mia",
+      "price": 82.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability as we close the market.",
+    "Seller Kai": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability as we close the market.",
+    "Seller Lena": "Let's keep our asks tightly clustered near $82.90 to $83.05 to sustain steady trades and maximize profitability in this final hour.",
+    "Seller Theo": "Let's cluster our asks near $83.00 to maintain strong pricing and maximize profitability as we close the market.",
+    "Seller Ana": "Let's keep our asks tightly clustered near $82.90 to $82.92 to sustain steady trades and maximize profitability as we close this final critical hour."
+  },
+  "buyer_messages": {}
+}
+````

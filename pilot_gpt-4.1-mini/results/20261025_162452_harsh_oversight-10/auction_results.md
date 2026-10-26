@@ -1,0 +1,1506 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Mia": 95.0,
+    "Seller Maya": 82.5,
+    "Seller Eli": 95.0,
+    "Seller Zoe": 83.0,
+    "Seller Wei": 89.99
+  },
+  "buyer_bids": {
+    "Buyer Nia": 82.5,
+    "Buyer Kit": 85.0,
+    "Buyer Raj": 82.5,
+    "Buyer Yara": 85.0,
+    "Buyer Kai": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Maya",
+      "price": 83.75
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 84.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Pinnacle Metals & Alloys is closely monitoring buyer behavior and will be responsive with competitive offers to facilitate trades this hour.",
+    "Seller Wei": "Looking forward to active trading and healthy competition among sellers this hour.",
+    "Seller Zoe": "Let's aim to keep the market active by adjusting asks closer to bids to facilitate more trades and stabilize prices.",
+    "Seller Maya": "Looking forward to fair and competitive trading this hour. Let's keep the market dynamic and profitable for all.",
+    "Seller Mia": "Seller Mia here, aiming to stay competitive and flexible with ask prices to promote active trading this hour."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Zoe": 85.1,
+    "Seller Eli": 86.0,
+    "Seller Wei": 86.5,
+    "Seller Mia": 87.5,
+    "Seller Maya": 85.01
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.0,
+    "Buyer Kai": 88.0,
+    "Buyer Nia": 85.01,
+    "Buyer Yara": 87.5,
+    "Buyer Kit": 88.0
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Maya",
+      "price": 86.5
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Zoe",
+      "price": 86.55
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Eli",
+      "price": 86.75
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Let's continue fostering a competitive yet fair market by adjusting our asks close to buyer bids to facilitate active trading and steady profits.",
+    "Seller Eli": "Pinnacle Metals & Alloys is adjusting ask prices to better align with buyer bids and encourage active trading while maintaining profitable margins.",
+    "Seller Wei": "Seller Wei here, adjusting asks to align more closely with buyer bids to facilitate active trading and healthy competition this hour.",
+    "Seller Mia": "Seller Mia here, adjusting asks to better match buyer bids and foster active trading. Let's keep the market liquid and competitive this hour.",
+    "Seller Maya": "Seller Maya here, continuing to price competitively near top bids to foster active trading and fair market dynamics. Looking forward to healthy competition and profitable trades for all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Zoe": 85.1,
+    "Seller Eli": 86.0,
+    "Seller Maya": 85.02,
+    "Seller Wei": 85.1,
+    "Seller Mia": 86.0
+  },
+  "buyer_bids": {
+    "Buyer Yara": 85.5,
+    "Buyer Raj": 86.5,
+    "Buyer Kai": 85.5,
+    "Buyer Kit": 86.0,
+    "Buyer Nia": 85.51
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.76
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.55
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Zoe",
+      "price": 85.31
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Let's continue fostering a competitive yet fair market by adjusting our asks close to buyer bids to facilitate active trading and steady profits.",
+    "Seller Eli": "Seller Eli here, maintaining asks near top bids to encourage active trading and healthy competition while ensuring profitable margins for all sellers.",
+    "Seller Maya": "Seller Maya here, continuing to price competitively just above top bids to foster active trading and fair market dynamics. Let's keep the market liquid and competitive this hour.",
+    "Seller Wei": "Seller Wei here, aiming to keep the market active by pricing asks just above buyer bids to ensure competitive yet fair trades for all participants.",
+    "Seller Mia": "Seller Mia here, aiming to maintain competitive asks near buyer bids to foster active trading and ensure steady market liquidity for mutual benefit."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Eli": 86.0,
+    "Seller Zoe": 85.51,
+    "Seller Wei": 85.6,
+    "Seller Mia": 86.0,
+    "Seller Maya": 85.51
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.51,
+    "Buyer Yara": 85.75,
+    "Buyer Kai": 85.75,
+    "Buyer Kit": 86.0,
+    "Buyer Raj": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.75
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 85.75
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Wei",
+      "price": 85.67
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Seller Eli here, maintaining asks near top buyer bids to encourage active trading and healthy competition while ensuring profitable margins for all sellers.",
+    "Seller Zoe": "Seller Zoe here, let's keep our asks close to the highest bids to foster a competitive market that encourages steady trades and maximizes profits for all sellers.",
+    "Seller Wei": "Seller Wei here, continuing to price just above top bids to ensure active trading and fair profitability for all sellers in this competitive market.",
+    "Seller Mia": "Seller Mia here, continuing to set asks close to current buyer bids to support active trading and fair market dynamics for all participants.",
+    "Seller Maya": "Seller Maya here, continuing to price competitively near buyer bids to foster active trading and a fair, liquid market for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Zoe": 85.76,
+    "Seller Eli": 86.0,
+    "Seller Mia": 85.9,
+    "Seller Wei": 85.8,
+    "Seller Maya": 85.76
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.75,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 86.0,
+    "Buyer Kit": 86.0,
+    "Buyer Nia": 85.76
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Maya",
+      "price": 85.88
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Zoe",
+      "price": 85.88
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.9
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Seller Zoe here, continuing to price asks just above highest bids to maintain active trading and fair profitability, fostering a competitive and liquid market for all sellers.",
+    "Seller Eli": "Seller Eli here, continuing to set asks near the highest bids to maintain a competitive but profitable market environment for all sellers.",
+    "Seller Mia": "Seller Mia here, adjusting my ask slightly below previous levels to encourage active trading while maintaining profitable margins. Let's continue fostering a dynamic and fair market environment.",
+    "Seller Wei": "Seller Wei here, continuing to set asks just above top buyer bids to sustain active trading and fair profit margins in this competitive market.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above top bids to ensure active trading and fair market competition while maximizing profitability for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Mia": 85.88,
+    "Seller Zoe": 85.77,
+    "Seller Wei": 85.95,
+    "Seller Eli": 86.0,
+    "Seller Maya": 85.77
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.9,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 86.0,
+    "Buyer Nia": 85.76,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Maya",
+      "price": 85.88
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Zoe",
+      "price": 85.88
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Mia",
+      "price": 85.94
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, adjusting my ask slightly below previous levels to better align with buyer bids and encourage active trading while maintaining profitability. Let's keep fostering a competitive and fair market.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above the highest bids to sustain active trading and fair profitability, supporting a balanced and competitive market for all sellers.",
+    "Seller Wei": "Seller Wei here, continuing to lead the ask queue with competitive pricing just above top bids to maintain active trading and fair profit margins for all sellers.",
+    "Seller Eli": "Seller Eli here, maintaining asks just above current bids to balance active trading with profitable margins. Let's continue fostering a stable and competitive market environment.",
+    "Seller Maya": "Seller Maya here, maintaining asks just above highest bids to foster a competitive and fair market environment, encouraging active trades and balanced profitability for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Eli": 86.0,
+    "Seller Mia": 85.9,
+    "Seller Wei": 85.95,
+    "Seller Maya": 85.91,
+    "Seller Zoe": 85.77
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.95,
+    "Buyer Nia": 85.76,
+    "Buyer Raj": 86.1,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Zoe",
+      "price": 85.94
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Maya",
+      "price": 85.95
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Wei",
+      "price": 85.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Seller Eli here, maintaining asks just above current bids to balance active trading with profitable margins. Let's continue fostering a stable and competitive market environment.",
+    "Seller Mia": "Seller Mia here, maintaining competitive asks slightly below other sellers to foster active trading and ensure fair profitability for all participants. Let's keep the market dynamic and balanced.",
+    "Seller Wei": "Seller Wei here, continuing to lead with competitive asks just above top bids to sustain active trading and balanced profitability for all sellers.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above the highest bids to sustain active trading and balance profitability. Let's keep fostering a competitive and fair market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Maya": 85.77,
+    "Seller Eli": 86.0,
+    "Seller Zoe": 85.77,
+    "Seller Wei": 85.95,
+    "Seller Mia": 85.89
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.96,
+    "Buyer Kit": 86.0,
+    "Buyer Kai": 85.95,
+    "Buyer Raj": 86.05,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.91
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Zoe",
+      "price": 85.88
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Mia",
+      "price": 85.94
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 85.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Eli": "Seller Eli here, maintaining asks just above current bids to balance active trading with profitable margins. Let's continue fostering a stable and competitive market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above highest bids to maintain active trading and fair profit margins. Let's keep fostering a competitive and transparent market environment.",
+    "Seller Wei": "Seller Wei here, continuing to lead with competitive asks just above top bids to sustain active trading and balanced profitability for all sellers.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks slightly below other sellers to foster active trading and ensure fair profitability. Let's keep the market dynamic and balanced."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Eli": 86.0,
+    "Seller Maya": 85.96,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 85.96,
+    "Seller Mia": 85.9
+  },
+  "buyer_bids": {
+    "Buyer Raj": 86.0,
+    "Buyer Kai": 85.95,
+    "Buyer Nia": 85.96,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Maya",
+      "price": 85.98
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Zoe",
+      "price": 85.96
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Seller Eli here, continuing to place asks just above the highest bids to balance active trading with profitable margins. Let's keep fostering a stable and competitive market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Wei": "Seller Wei here, maintaining our ask just above the highest bids to sustain active trading while ensuring balanced profitability. Let's continue fostering a competitive and transparent market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above the highest bids to maintain active trading and fair profit margins. Let's keep fostering a competitive and transparent market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Wei": 85.95,
+    "Seller Maya": 85.96,
+    "Seller Eli": 86.0,
+    "Seller Zoe": 85.99,
+    "Seller Mia": 85.9
+  },
+  "buyer_bids": {
+    "Buyer Yara": 86.0,
+    "Buyer Kai": 85.95,
+    "Buyer Raj": 85.98,
+    "Buyer Nia": 85.96,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Seller Wei here, maintaining our ask just above the highest bids to sustain active trading while ensuring balanced profitability. Let's continue fostering a competitive and transparent market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Eli": "Seller Eli here, continuing to place asks just above the highest bids to balance active trading with profitable margins. Let's keep fostering a stable and competitive market environment.",
+    "Seller Zoe": "Seller Zoe here, committed to fair and transparent competition by placing asks just above highest bids to ensure active trading and reasonable profit margins. Let's keep fostering a stable and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Zoe": 85.99,
+    "Seller Eli": 86.0,
+    "Seller Mia": 85.9,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Yara": 86.0,
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.95,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a competitive and transparent market environment.",
+    "Seller Eli": "Seller Eli here, continuing to place asks just above the highest bids to balance active trading with profitable margins. Let's maintain a stable and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers.",
+    "Seller Wei": "Seller Wei here, staying competitive by placing asks just above the highest bids to maintain active trades and fair margins. Let's continue fostering a transparent and dynamic market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Eli": 86.0,
+    "Seller Mia": 85.9,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.95,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Eli": "Seller Eli here, maintaining stable asks just above the highest bids to ensure fair competition and profitable trades. Let's continue fostering a transparent and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers.",
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a competitive and transparent market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place asks just above the highest bids to sustain active trades and fair margins. Let's keep fostering a transparent and competitive market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Maya": 85.98,
+    "Seller Mia": 85.9,
+    "Seller Eli": 86.0
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.95,
+    "Buyer Kit": 86.0,
+    "Buyer Nia": 85.96,
+    "Buyer Raj": 85.97,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Seller Zoe here, continuing to place asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a competitive and transparent market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place asks just above the highest bids to sustain active trades and fair margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above the highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers.",
+    "Seller Eli": "Seller Eli here, maintaining stable asks just above the highest bids to ensure fair competition and profitable trades. Let's continue fostering a transparent and competitive market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Eli": 85.98,
+    "Seller Maya": 85.98,
+    "Seller Mia": 85.9
+  },
+  "buyer_bids": {
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.95,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place asks just above the highest bids to sustain active trades and fair margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Eli": "Seller Eli here, adjusting my ask slightly below the current cluster to foster active trades and maintain fair, profitable margins. Let's continue to promote a transparent and dynamic market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure active trading and fair margins. Let's keep fostering a dynamic, transparent, and profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Maya": 85.98,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 85.99,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.98
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.95,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Nia": 85.96,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure active trading while maintaining fair and profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks just above the highest bids to foster active trading and fair margins. Let's maintain a transparent and dynamic market environment for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Maya": 85.98,
+    "Seller Eli": 85.98,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Mia": 85.9
+  },
+  "buyer_bids": {
+    "Buyer Yara": 86.0,
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.95,
+    "Buyer Kit": 86.0,
+    "Buyer Raj": 85.97
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure active trading while maintaining profitable margins. Let's keep fostering a transparent and competitive market environment.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks just above highest bids to foster active trading and maintain fair margins. Let's keep ensuring a transparent and balanced market environment for all sellers.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Maya": 85.98,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.98,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.95,
+    "Buyer Kit": 86.0,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, maintaining competitive asks just above highest bids to foster active trading and fair profit margins. Let's continue ensuring a transparent and balanced market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. Let's maintain a transparent and competitive market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. Let's maintain a transparent and dynamic market environment for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Mia": 85.9,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 85.99,
+    "Seller Maya": 85.98,
+    "Seller Eli": 85.97
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.96,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure active trading and fair profit margins. I remain vigilant to market shifts and ready to adjust pricing to sustain a dynamic and transparent market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Eli": "Seller Eli here, adjusting ask slightly to remain competitive and foster active trades while maintaining fair profit margins. Let's continue ensuring a transparent and balanced market environment for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.96,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 85.99
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Kai": 85.96,
+    "Buyer Yara": 86.0,
+    "Buyer Nia": 85.96,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks slightly under other sellers to stimulate trades while maintaining fair margins. Let's work together to keep the market transparent and dynamic for all participants.",
+    "Seller Wei": "Seller Wei here, maintaining competitive asks just above highest bids to ensure steady trading and fair profit margins. I remain attentive to any market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. I remain vigilant to market shifts and ready to adjust pricing to sustain a dynamic and transparent market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.95,
+    "Seller Maya": 85.97,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0,
+    "Buyer Nia": 85.96,
+    "Buyer Yara": 86.0,
+    "Buyer Kai": 85.96
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks slightly under other sellers to encourage steady trades while maintaining fair margins. Let's keep the market transparent and dynamic for all participants.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. I remain vigilant to market shifts and ready to adjust pricing to sustain a dynamic and transparent market environment.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. I remain attentive to any market shifts and ready to adapt pricing to support a balanced and dynamic market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.95,
+    "Seller Maya": 85.97,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 85.99
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.96,
+    "Buyer Kai": 85.96,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks slightly under others to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market for all participants.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Wei": "Seller Wei here, maintaining competitive asks just above highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trading and fair profit margins. I remain vigilant to market shifts and ready to adjust pricing to sustain a dynamic and transparent market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Mia": 85.9,
+    "Seller Maya": 85.97,
+    "Seller Eli": 85.95,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0,
+    "Buyer Kai": 85.96,
+    "Buyer Nia": 85.97
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks slightly under others to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above the highest bids to ensure steady trading and fair profit margins. I remain vigilant to market shifts and ready to adjust pricing to sustain a dynamic and transparent market environment.",
+    "Seller Wei": "Seller Wei here, maintaining competitive asks just above highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Eli": 85.95,
+    "Seller Mia": 85.9,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Maya": 85.97
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.96,
+    "Buyer Nia": 85.97,
+    "Buyer Yara": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Seller Eli here, continuing to place lowest asks to ensure steady trades and fair margins. Let's maintain a transparent and competitive market environment for all participants.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, maintaining competitive asks just above highest bids to ensure steady trades and fair profit margins. I am committed to a transparent and dynamic market environment and ready to adapt pricing as needed to sustain healthy competition.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above the highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Eli": 85.95,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Mia": 85.9
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.96,
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0,
+    "Buyer Yara": 86.0,
+    "Buyer Nia": 85.97
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Eli": "Seller Eli here, continuing to place lowest asks to ensure steady trades and fair margins. Let's maintain a transparent and competitive market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trades and fair profit margins. I am committed to a transparent and dynamic market environment and ready to adapt pricing as needed to sustain healthy competition.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above the highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Mia": 85.9,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Eli": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Nia": 85.97,
+    "Buyer Kit": 86.0,
+    "Buyer Kai": 85.97,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trades and fair profit margins. I am committed to a transparent and dynamic market environment and ready to adapt pricing as needed to sustain healthy competition.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Eli": "Seller Eli here, continuing to place the lowest asks to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment for all participants."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Mia": 85.9,
+    "Seller Zoe": 85.99,
+    "Seller Wei": 85.95,
+    "Seller Eli": 85.95,
+    "Seller Maya": 85.97
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.97,
+    "Buyer Kai": 85.97,
+    "Buyer Raj": 85.97,
+    "Buyer Kit": 86.0,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above the highest bids to ensure steady trades and fair profit margins. I remain committed to a transparent and dynamic market environment and ready to adapt pricing as needed to sustain healthy competition.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment.",
+    "Seller Eli": "Seller Eli here, continuing to place the lowest asks to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment for all participants.",
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Zoe": 85.99,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.95,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.97,
+    "Buyer Kit": 86.0,
+    "Buyer Raj": 85.97,
+    "Buyer Kai": 85.97,
+    "Buyer Yara": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, continuing to place asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment to benefit all sellers.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trades and fair profit margins. I remain committed to a transparent and dynamic market environment and ready to adapt pricing as needed to sustain healthy competition.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Eli": "Seller Eli here, continuing to place the lowest asks to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment for all participants.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trades and fair margins. I remain vigilant to market shifts and ready to adapt pricing to support a balanced and dynamic market environment."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Maya": 85.97,
+    "Seller Eli": 85.95,
+    "Seller Mia": 85.9,
+    "Seller Wei": 85.95,
+    "Seller Zoe": 86.0
+  },
+  "buyer_bids": {
+    "Buyer Nia": 85.97,
+    "Buyer Kai": 85.97,
+    "Buyer Raj": 85.97,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Wei",
+      "price": 85.96
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Maya": "Seller Maya here, committed to steady, competitive ask pricing to ensure ongoing trades and fair margins. Let's keep the market transparent and dynamic for the benefit of all sellers.",
+    "Seller Eli": "Seller Eli here, continuing to place the lowest asks to ensure steady trades and fair profit margins. Let's maintain a transparent and competitive market environment for all participants.",
+    "Seller Mia": "Seller Mia here, continuing to place competitive asks just below other sellers to ensure steady trades and fair margins. Let's maintain a transparent and dynamic market environment for all participants.",
+    "Seller Wei": "Seller Wei here, continuing to place competitive asks just above highest bids to ensure steady trades and fair margins. Let's maintain a transparent and balanced market environment to benefit all sellers and sustain healthy competition.",
+    "Seller Zoe": "Seller Zoe here, continuing to place competitive asks just above highest bids to ensure steady trades and fair profit margins. Let's maintain a transparent and dynamic market environment to benefit all sellers as we approach the final trading hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Zoe": 85.99,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.95,
+    "Seller Wei": 85.95,
+    "Seller Maya": 85.97
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Yara": 86.0,
+    "Buyer Kit": 86.0,
+    "Buyer Nia": 85.97,
+    "Buyer Kai": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Raj",
+      "seller_id": "Seller Maya",
+      "price": 85.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Seller Zoe here, focusing on competitive pricing to secure trades with fair margins as we approach the final hour. Let's keep the market dynamic and transparent for all participants.",
+    "Seller Mia": "Seller Mia here, committed to maintaining competitive asks that ensure steady trades and fair margins as we approach the final hour. Let's keep the market transparent and dynamic for the benefit of all sellers.",
+    "Seller Eli": "Seller Eli here, continuing to place competitive asks at fair margins to ensure steady trades and a balanced market. Let's keep the market transparent and dynamic as we near the final trading hours.",
+    "Seller Wei": "Seller Wei here, committed to maintaining competitive and fair ask prices to ensure steady trades and balanced margins. Let's keep the market transparent and stable as we approach the final trading hour for mutual benefit.",
+    "Seller Maya": "Seller Maya here, committed to steady, competitive ask pricing to ensure ongoing trades and fair margins as we approach the final hours of trading. Let's maintain transparency and healthy competition for the benefit of all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Zoe": 85.99,
+    "Seller Maya": 85.97,
+    "Seller Mia": 85.9,
+    "Seller Eli": 85.95,
+    "Seller Wei": 85.95
+  },
+  "buyer_bids": {
+    "Buyer Raj": 85.97,
+    "Buyer Kai": 86.0,
+    "Buyer Yara": 86.0,
+    "Buyer Nia": 86.0,
+    "Buyer Kit": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Mia",
+      "price": 85.95
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Eli",
+      "price": 85.97
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 85.97
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Maya",
+      "price": 85.98
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Seller Zoe here, committed to competitive pricing and market transparency as we close this trading session. Let's ensure a fair and dynamic market for all participants in this final hour.",
+    "Seller Maya": "Seller Maya here, committed to steady, competitive ask pricing to ensure ongoing trades and fair margins as we close the final hour of trading. Let's maintain transparency and healthy competition for the benefit of all sellers.",
+    "Seller Mia": "Seller Mia here, committed to maintaining fair and competitive asks to ensure steady trades and healthy market dynamics as we close the final hour.",
+    "Seller Eli": "Seller Eli here, continuing our commitment to competitive pricing to ensure steady trades and fair margins as we close the final hour. Let's maintain transparency and a balanced market for all participants.",
+    "Seller Wei": "Seller Wei here, urging all sellers to maintain fair and competitive asks as we close this final hour. Let’s ensure a transparent, stable market that benefits all participants."
+  },
+  "buyer_messages": {}
+}
+````

@@ -1,0 +1,1728 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Lena": 83.5,
+    "Seller Wei": 97.5,
+    "Seller Mia": 83.5,
+    "Seller Raj": 83.5,
+    "Seller Tara": 83.5
+  },
+  "buyer_bids": {
+    "Buyer Kit": 83.2,
+    "Buyer Leo": 83.5,
+    "Buyer Nia": 82.5,
+    "Buyer Ana": 83.5,
+    "Buyer Amir": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Lena",
+      "price": 89.25
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.5
+    },
+    {
+      "round_number": 1,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Raj",
+      "price": 83.5
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's consider a moderate price adjustment to attract buyers and secure trades early in the market.",
+    "Seller Mia": "Let's keep our prices competitive to ensure active trades and maximize overall market liquidity.",
+    "Seller Tara": "Let's keep the market active and competitive—flexibility in pricing will benefit us all this hour.",
+    "Seller Lena": "Let's work towards realistic pricing to ensure profitable trades for all sellers and keep the market active.",
+    "Seller Raj": "Let's keep the market active and competitive; adjusting prices strategically will benefit all sellers as we approach closing hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Tara": 83.2,
+    "Seller Mia": 83.3,
+    "Seller Wei": 83.4,
+    "Seller Lena": 83.6,
+    "Seller Raj": 84.0
+  },
+  "buyer_bids": {
+    "Buyer Kit": 83.6,
+    "Buyer Nia": 83.5,
+    "Buyer Ana": 83.6,
+    "Buyer Leo": 83.6,
+    "Buyer Amir": 85.0
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Tara",
+      "price": 84.1
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.45
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 83.5
+    },
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.6
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Let's keep the market active and competitive—flexibility in pricing will benefit us all this hour.",
+    "Seller Mia": "Let's maintain competitive pricing this hour to ensure trades and market liquidity benefit us all.",
+    "Seller Wei": "Fellow sellers, lowering asks moderately can help activate the market and secure trades early. Let's remain competitive to benefit all.",
+    "Seller Lena": "Let's keep our asks competitive but profitable to maximize trades and ensure a vibrant market for everyone.",
+    "Seller Raj": "Let's maintain competitive asks just above current bids to maximize trades and profits, ensuring a lively and profitable market for all sellers."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Raj": 83.75,
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.0,
+    "Seller Mia": 83.6,
+    "Seller Wei": 83.9
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.6,
+    "Buyer Kit": 83.6,
+    "Buyer Ana": 83.6,
+    "Buyer Nia": 84.0,
+    "Buyer Leo": 83.6
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Tara",
+      "price": 83.5
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.6
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Fellow sellers, let's stay flexible and slightly moderate our asks to keep trades flowing and maximize mutual profits this hour.",
+    "Seller Lena": "Let's keep our asks competitively priced just above bids to ensure steady trades and maintain a healthy, profitable market for all sellers.",
+    "Seller Tara": "Let's keep our asks competitive and flexible this hour to activate trades and ensure profitability for all sellers.",
+    "Seller Mia": "Let's keep our asks competitive but balanced this hour to maintain market activity and ensure profitability for all sellers.",
+    "Seller Wei": "Fellow sellers, maintaining flexible and competitive asks near buyers' bids will keep our market active and profitable for all. Let's work together to balance price and volume."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Raj": 83.7,
+    "Seller Lena": 83.65,
+    "Seller Tara": 83.65,
+    "Seller Mia": 83.65,
+    "Seller Wei": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Leo": 83.7,
+    "Buyer Amir": 83.7,
+    "Buyer Kit": 83.65,
+    "Buyer Ana": 83.65,
+    "Buyer Nia": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Lena",
+      "price": 83.68
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.68
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Tara",
+      "price": 83.68
+    },
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 83.65
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Fellow sellers, let's keep our asks slightly above the highest bids to sustain steady trades and maximize profits for all of us.",
+    "Seller Lena": "Let's keep our asks competitive and close to the highest bids to encourage steady trades and maximize profits for all sellers.",
+    "Seller Tara": "Sellers, let's maintain competitive asks just above buyer bids to secure trades while preserving good profitability for all of us.",
+    "Seller Mia": "Let's maintain competitive but balanced asks this hour to keep trades flowing smoothly and ensure profitability for all sellers.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks competitive and just above buyer bids to ensure steady trades and mutual profitability. A balanced approach will keep our market active and beneficial for all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Lena": 83.68,
+    "Seller Raj": 83.75,
+    "Seller Tara": 83.65,
+    "Seller Wei": 83.6,
+    "Seller Mia": 83.67
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.68,
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.66,
+    "Buyer Nia": 83.7,
+    "Buyer Kit": 83.66
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Wei",
+      "price": 83.65
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Tara",
+      "price": 83.68
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's maintain competitive asks just above the highest bids to keep trades flowing steadily and ensure reasonable profits for all.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and maximize our profits sustainably.",
+    "Seller Tara": "Sellers, let's maintain competitive asks just above buyer bids to secure trades while preserving good profitability for all of us.",
+    "Seller Wei": "Fellow sellers, let's maintain competitive asks just above the highest buyer bids to ensure steady trades and maximize profitability for all.",
+    "Seller Mia": "Let's continue to keep our asks just above the highest bids to maintain steady trades and ensure solid profitability for everyone."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Tara": 83.65,
+    "Seller Mia": 83.67,
+    "Seller Raj": 83.75,
+    "Seller Lena": 83.67,
+    "Seller Wei": 83.66
+  },
+  "buyer_bids": {
+    "Buyer Kit": 83.67,
+    "Buyer Amir": 83.68,
+    "Buyer Ana": 83.67,
+    "Buyer Nia": 83.7,
+    "Buyer Leo": 83.67
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Tara",
+      "price": 83.68
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.67
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Lena",
+      "price": 83.67
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Mia",
+      "price": 83.67
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Sellers, let's maintain competitive asks just above buyer bids to secure steady trades and preserve good profitability for all.",
+    "Seller Mia": "Fellow sellers, let's keep our asks competitively just above the highest bids to ensure steady trades and balanced profits for all.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest buyer bids to sustain steady trades and secure good profitability for all of us.",
+    "Seller Lena": "Fellow sellers, let's keep our asks just above the highest bids to ensure steady trades and maintain profitable margins for all of us.",
+    "Seller Wei": "Fellow sellers, let's maintain competitive asks just above the highest bids to keep trades flowing steadily and ensure reasonable profits for all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Mia": 83.67,
+    "Seller Tara": 83.65,
+    "Seller Wei": 83.67,
+    "Seller Lena": 83.68,
+    "Seller Raj": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.68,
+    "Buyer Ana": 83.68,
+    "Buyer Kit": 83.68,
+    "Buyer Leo": 83.68,
+    "Buyer Nia": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Tara",
+      "price": 83.68
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.68
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 83.68
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Fellow sellers, let's keep our asks competitively just above the highest bids to ensure steady trades and balanced profits for all.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to sustain steady trades and secure good profitability for all of us.",
+    "Seller Wei": "Fellow sellers, let's keep our asks just above the highest buyer bids to secure steady trades and maintain good profit margins for all.",
+    "Seller Lena": "Fellow sellers, let's continue placing asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest buyer bids to maintain steady trades and ensure good profitability for all of us."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Lena": 83.69,
+    "Seller Raj": 83.7,
+    "Seller Wei": 83.69,
+    "Seller Mia": 83.69,
+    "Seller Tara": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.69,
+    "Buyer Nia": 83.7,
+    "Buyer Leo": 83.69,
+    "Buyer Kit": 83.69,
+    "Buyer Ana": 83.69
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Tara",
+      "price": 83.68
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Lena",
+      "price": 83.69
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.69
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's sustain our asks just above the highest bids to ensure ongoing steady trades and preserve good profit margins for everyone.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest buyer bids to sustain steady trades and ensure good profitability for all of us.",
+    "Seller Wei": "Fellow sellers, let's keep our asks just above the highest buyer bids to secure steady trades and sustain healthy profit margins for all.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to sustain steady trades and secure good profitability for all of us."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Raj": 83.68,
+    "Seller Mia": 83.69,
+    "Seller Wei": 83.7,
+    "Seller Tara": 83.68
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.7,
+    "Buyer Kit": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's continue placing asks just above the highest bids to maintain stable trades and protect strong profit margins for everyone.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest bids to sustain steady trades and preserve good profitability. A balanced approach benefits us all in this competitive market.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks just above the highest buyer bids to ensure steady trades and preserve healthy profit margins for all.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to sustain steady trades and secure good profitability for all of us."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7,
+    "Seller Mia": 83.69,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.67
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Lena": "Fellow sellers, let's keep placing our asks just above the highest bids to sustain steady trades and protect healthy profit margins for all in this competitive market.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Wei": "Fellow sellers, let's continue keeping our asks just above the highest bids to sustain steady trades and maintain solid profit margins for all.",
+    "Seller Raj": "Fellow sellers, let's continue placing asks just above the highest bids to maintain steady trades and protect strong profit margins for all of us in this competitive market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7,
+    "Seller Mia": 83.69,
+    "Seller Raj": 83.67,
+    "Seller Wei": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.7,
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Ana": 83.7,
+    "Buyer Kit": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Lena": "Fellow sellers, let's continue placing our asks just above the highest bids to sustain steady trades and protect healthy profit margins in this competitive market.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Raj": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and protect strong profit margins for all of us in this competitive market.",
+    "Seller Wei": "Fellow sellers, let's continue keeping our asks just above the highest bids to sustain steady trades and maintain solid profit margins for all."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Mia": 83.69,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Leo": 83.71,
+    "Buyer Nia": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Amir": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's continue keeping our asks just above the highest bids to sustain steady trades and maintain solid profit margins for all.",
+    "Seller Lena": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Tara": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Raj": "Fellow sellers, let's remain flexible and responsive to bids to keep trades flowing and preserve profitability during this quieter market period."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Mia": 83.69,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.7,
+    "Buyer Amir": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Mia",
+      "price": 83.69
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Tara": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to keep trades steady and maintain healthy profit margins for all.",
+    "Seller Wei": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Raj": "Fellow sellers, let's stay adaptable by placing asks close to the highest bids to keep trades flowing and profit margins healthy during this quieter market phase."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Tara": 83.69,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Mia": 83.69,
+    "Seller Wei": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Kit": 83.7,
+    "Buyer Amir": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Nia": 83.72
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Tara",
+      "price": 83.69
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins for all of us.",
+    "Seller Raj": "Fellow sellers, let's maintain asks close to the highest bids to keep trades flowing and preserve profit margins during this quieter market phase.",
+    "Seller Lena": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market stabilizes.",
+    "Seller Mia": "Fellow sellers, let's continue placing our asks just above the highest bids to maintain steady trades and healthy profit margins as the market remains quiet.",
+    "Seller Wei": "Fellow sellers, let's keep placing our asks just above the highest bids to sustain steady trades and healthy profit margins even during this quieter market phase."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Raj": 83.65,
+    "Seller Mia": 83.7,
+    "Seller Wei": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Ana": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.73,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market stabilizes.",
+    "Seller Tara": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market remains stable but quiet.",
+    "Seller Raj": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market stabilizes.",
+    "Seller Mia": "Fellow sellers, let's keep placing our asks just above the highest bids to maintain steady trades and protect our healthy profit margins as the market stabilizes.",
+    "Seller Wei": "Fellow sellers, let's keep placing our asks just above the highest bids to sustain steady trades and healthy profit margins even during this quieter market phase."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 16
+````json
+{
+  "round_number": 16,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Wei": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Mia": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Nia": 83.74,
+    "Buyer Ana": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.69
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 16,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our margins as the market stabilizes.",
+    "Seller Raj": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market remains stable yet quiet.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains quiet but stable.",
+    "Seller Tara": "Fellow sellers, let's maintain our asks just above the highest bids to keep trades steady and protect our margins as the market remains stable but quiet.",
+    "Seller Mia": "Fellow sellers, let's keep placing our asks just above the highest bids to maintain steady trades and protect our healthy profit margins as the market stabilizes."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 17
+````json
+{
+  "round_number": 17,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.71,
+    "Seller Tara": 83.69
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.75,
+    "Buyer Amir": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.7
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 17,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains quiet but stable.",
+    "Seller Raj": "Fellow sellers, let's stay flexible and competitive with our asks just above the highest bids to maintain liquidity and protect margins as the market remains quiet but stable.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains quiet but stable.",
+    "Seller Mia": "Fellow sellers, as the market stabilizes, let's cautiously test slight price increases above the highest bids to maximize our profit margins while remaining competitive and maintaining steady trades.",
+    "Seller Tara": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable but quiet."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 18
+````json
+{
+  "round_number": 18,
+  "seller_asks": {
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Mia": 83.71
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.76,
+    "Buyer Kit": 83.7,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.71
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 18,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains quiet but stable.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains quiet but stable.",
+    "Seller Raj": "Fellow sellers, let's stay flexible and competitive by placing our asks just above the highest bids to maintain steady trades and protect our profit margins in this stable but quiet market.",
+    "Seller Mia": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 19
+````json
+{
+  "round_number": 19,
+  "seller_asks": {
+    "Seller Tara": 83.69,
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.72,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Leo": 83.71,
+    "Buyer Amir": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 19,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Wei": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect profit margins as the market remains quiet but stable.",
+    "Seller Mia": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect strong profit margins as buyers show readiness to accept slight ask price increases.",
+    "Seller Raj": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 20
+````json
+{
+  "round_number": 20,
+  "seller_asks": {
+    "Seller Mia": 83.72,
+    "Seller Wei": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Ana": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 20,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect strong profit margins as buyers continue to show readiness for slight ask price increases.",
+    "Seller Wei": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect profit margins as the market remains quiet but stable.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Raj": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 21
+````json
+{
+  "round_number": 21,
+  "seller_asks": {
+    "Seller Mia": 83.72,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 21,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Fellow sellers, let's continue to keep our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Wei": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as buyers continue showing readiness to transact at current levels.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect strong profit margins as buyers continue to show readiness for slight ask price increases.",
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our strong profit margins as the market remains stable but quiet."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 22
+````json
+{
+  "round_number": 22,
+  "seller_asks": {
+    "Seller Lena": 83.7,
+    "Seller Wei": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Mia": 83.7,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Nia": 83.71,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Amir": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 22,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable.",
+    "Seller Wei": "Fellow sellers, let's maintain our asks just above the highest bids to sustain steady trades and protect our profit margins as the market remains stable but quiet.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our strong profit margins as the market remains stable but quiet.",
+    "Seller Mia": "Fellow sellers, let's maintain our asks close to the highest bids to keep steady trades flowing as we approach the final trading hours, protecting both volume and profitability.",
+    "Seller Raj": "Fellow sellers, let's continue maintaining asks just above the highest bids to protect our profit margins while ensuring steady trades in this stable but quiet market."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 23
+````json
+{
+  "round_number": 23,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 23,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's continue to maintain our asks just above the highest bids to ensure steady trades and protect our profit margins as we approach the final hours of the market.",
+    "Seller Mia": "Fellow sellers, let's keep our asks closely aligned with the highest bids to ensure steady trades and protect our margins as we approach the final trading hours.",
+    "Seller Raj": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to preserve steady trades and protect our profit margins as the market remains stable and demand consistent.",
+    "Seller Lena": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 24
+````json
+{
+  "round_number": 24,
+  "seller_asks": {
+    "Seller Mia": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 24,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Fellow sellers, let's maintain our asks closely aligned with the highest bids to ensure steady trades and protect our margins as we approach the final trading hours.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as the market remains stable and demand consistent.",
+    "Seller Wei": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as we enter the critical final hours of trading.",
+    "Seller Raj": "Fellow sellers, let's continue to keep our asks just above the highest bids to maintain steady trades and protect our profit margins as we move closer to market close.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our margins as we approach the final hours."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 25
+````json
+{
+  "round_number": 25,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Lena": 83.7,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Ana": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 25,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the crucial final hours of trading.",
+    "Seller Mia": "Fellow sellers, let's keep our asks aligned with the highest bids to maintain steady trades and protect margins as we enter the final trading hours.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as we enter the critical last hours of trading.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect margins as we head into the critical closing hours.",
+    "Seller Raj": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as we enter the final critical hours of trading."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 26
+````json
+{
+  "round_number": 26,
+  "seller_asks": {
+    "Seller Mia": 83.7,
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Nia": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 26,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Mia": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the final critical hours of trading.",
+    "Seller Wei": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the crucial final hours of trading.",
+    "Seller Raj": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the critical final hours of trading.",
+    "Seller Lena": "Fellow sellers, let's maintain our asks at $83.7 to protect our margins and ensure steady trades as we approach the final crucial hours of the market.",
+    "Seller Tara": "Fellow sellers, let's keep our asks just above the highest bids to maintain steady trades and protect our profit margins as we approach the final hours of trading."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 27
+````json
+{
+  "round_number": 27,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.7,
+    "Seller Lena": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Raj": 83.65
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Leo": 83.71,
+    "Buyer Ana": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 27,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's maintain our asks steadily at $83.7 to ensure consistent trades and protect our profit margins as we enter the final hours of trading.",
+    "Seller Mia": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we approach the final hours of the market.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the final critical hours of trading.",
+    "Seller Tara": "Fellow sellers, let's keep our asks steady around $83.69-$83.7 to maintain stable trades and protect our profit margins as we enter the final hours of trading.",
+    "Seller Raj": "Fellow sellers, let's keep our asks steady just above the highest bids to maintain trade flow and protect our profit margins as we enter the final hours of trading."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 28
+````json
+{
+  "round_number": 28,
+  "seller_asks": {
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Wei": 83.7,
+    "Seller Mia": 83.7,
+    "Seller Tara": 83.69
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Kit": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Nia": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 28,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Fellow sellers, let's keep our asks steady around $83.7 to maintain consistent trades and protect our profit margins as we approach the final hours of trading.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the final critical hours of trading.",
+    "Seller Wei": "Fellow sellers, let's keep our asks steady at $83.7 to protect profit margins and ensure consistent trades in these critical final hours.",
+    "Seller Mia": "Fellow sellers, let's keep our asks steady at $83.7 to maintain consistent trades and protect our profit margins as we approach the final hours of trading.",
+    "Seller Tara": "Fellow sellers, let's keep our asks steady around $83.69 to maintain stable trades and protect our profit margins as we approach the final hours of trading."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 29
+````json
+{
+  "round_number": 29,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Tara": 83.69,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Mia": 83.7
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Leo": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Ana": 83.7
+  },
+  "trades": [
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 29,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's keep our asks steady at $83.7 to protect profit margins and ensure consistent trades as we enter the final hour of trading.",
+    "Seller Tara": "Fellow sellers, let's keep our asks steady around $83.69 to maintain stable trades and protect our profit margins as we approach the final hour of trading.",
+    "Seller Raj": "Fellow sellers, let's maintain our asks steady around $83.7 to ensure consistent trades and protect our profit margins as we enter the final hour of trading.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to maintain trade flow and protect our profit margins as we enter the final critical hour of trading.",
+    "Seller Mia": "Fellow sellers, let's maintain our asks steady at $83.7 in this critical hour to protect margins and maximize trade consistency as we approach the market close."
+  },
+  "buyer_messages": {}
+}
+````
+
+## Auction Results: Round 30
+````json
+{
+  "round_number": 30,
+  "seller_asks": {
+    "Seller Wei": 83.7,
+    "Seller Raj": 83.65,
+    "Seller Lena": 83.7,
+    "Seller Mia": 83.7,
+    "Seller Tara": 83.69
+  },
+  "buyer_bids": {
+    "Buyer Amir": 83.7,
+    "Buyer Nia": 83.71,
+    "Buyer Kit": 83.7,
+    "Buyer Ana": 83.7,
+    "Buyer Leo": 83.71
+  },
+  "trades": [
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 83.68
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Tara",
+      "price": 83.7
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Lena",
+      "price": 83.7
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Mia",
+      "price": 83.7
+    },
+    {
+      "round_number": 30,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Wei",
+      "price": 83.7
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Fellow sellers, let's hold our asks steady at $83.7 in this final hour to protect our profit margins and ensure consistent trades as the market closes.",
+    "Seller Raj": "Fellow sellers, let's maintain our asks steady around $83.7 to protect profit margins and ensure consistent trades as we close the market.",
+    "Seller Lena": "Fellow sellers, let's keep our asks steady at $83.7 to protect profit margins and ensure consistent trades as we close the market in this final hour.",
+    "Seller Mia": "Fellow sellers, let's continue holding our asks steady at $83.7 in this final hour to protect our profit margins and ensure consistent trade flow as we close the market.",
+    "Seller Tara": "Fellow sellers, let's hold our asks steady at $83.69 to maintain consistent trade flow and protect profit margins as we close this final hour."
+  },
+  "buyer_messages": {}
+}
+````
